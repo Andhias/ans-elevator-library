@@ -1,0 +1,1199 @@
+{
+  "version": "2026.05.28.1606",
+  "generated_at": "2026-05-28T09:06:34.009509+00:00",
+  "description": "Global elevator OEM/controller/drive/component taxonomy. Missing entries are placeholders for APK/web global structure.",
+  "total_items": 80,
+  "available": 32,
+  "partial": 9,
+  "missing": 39,
+  "items": [
+    {
+      "name": "Otis",
+      "slug": "otis",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "otis",
+        "gen2",
+        "lcb",
+        "acd",
+        "mcs",
+        "otis2000"
+      ],
+      "matched_local_categories": [
+        "OTIS",
+        "SIGMA"
+      ],
+      "priority": "normal",
+      "document_count": 11
+    },
+    {
+      "name": "KONE",
+      "slug": "kone",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "kone",
+        "lce",
+        "kdm",
+        "monospace",
+        "ecodisc"
+      ],
+      "matched_local_categories": [
+        "KONE",
+        "MONARCH"
+      ],
+      "priority": "normal",
+      "document_count": 20
+    },
+    {
+      "name": "Schindler",
+      "slug": "schindler",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "schindler",
+        "bionic",
+        "3300",
+        "3600",
+        "5300",
+        "6300"
+      ],
+      "matched_local_categories": [
+        "AIEC3300",
+        "SCHINDLER"
+      ],
+      "priority": "normal",
+      "document_count": 9
+    },
+    {
+      "name": "TK Elevator / ThyssenKrupp",
+      "slug": "tk-elevator-thyssenkrupp",
+      "category": "oem",
+      "status": "partial",
+      "aliases": [
+        "tke",
+        "thyssen",
+        "thyssenkrupp",
+        "tac",
+        "mc2",
+        "synergy"
+      ],
+      "matched_local_categories": [
+        "TYSEEN"
+      ],
+      "priority": "high",
+      "document_count": 2
+    },
+    {
+      "name": "Mitsubishi Electric",
+      "slug": "mitsubishi-electric",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "mitsubishi",
+        "vfgl",
+        "elenessa",
+        "nexiez",
+        "gps",
+        "vfcl"
+      ],
+      "matched_local_categories": [
+        "MITSUBISHI"
+      ],
+      "priority": "normal",
+      "document_count": 3
+    },
+    {
+      "name": "Hitachi",
+      "slug": "hitachi",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "hitachi",
+        "hgp",
+        "uax",
+        "fia",
+        "gvf"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Fujitec",
+      "slug": "fujitec",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "fujitec",
+        "cp40",
+        "rexia",
+        "viridian"
+      ],
+      "matched_local_categories": [
+        "Fujitec"
+      ],
+      "priority": "normal",
+      "document_count": 1
+    },
+    {
+      "name": "Hyundai Elevator",
+      "slug": "hyundai-elevator",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "hyundai",
+        "stvf",
+        "wbvf",
+        "luxen"
+      ],
+      "matched_local_categories": [
+        "HYUNDAI"
+      ],
+      "priority": "normal",
+      "document_count": 4
+    },
+    {
+      "name": "Toshiba Elevator",
+      "slug": "toshiba-elevator",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "toshiba",
+        "cv",
+        "spacel"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Sigma",
+      "slug": "sigma",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "sigma",
+        "lg sigma",
+        "iris",
+        "mmr",
+        "acra"
+      ],
+      "matched_local_categories": [
+        "SIGMA"
+      ],
+      "priority": "normal",
+      "document_count": 4
+    },
+    {
+      "name": "LG / Sigma Legacy",
+      "slug": "lg-sigma-legacy",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "lg",
+        "sigma",
+        "lg-sigma"
+      ],
+      "matched_local_categories": [
+        "SIGMA"
+      ],
+      "priority": "normal",
+      "document_count": 4
+    },
+    {
+      "name": "Orona",
+      "slug": "orona",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "orona",
+        "arona"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Kleemann",
+      "slug": "kleemann",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "kleemann"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Cibes",
+      "slug": "cibes",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "cibes",
+        "cicon",
+        "cidis"
+      ],
+      "matched_local_categories": [
+        "CIBES"
+      ],
+      "priority": "normal",
+      "document_count": 2
+    },
+    {
+      "name": "Stannah",
+      "slug": "stannah",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "stannah"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Doppler",
+      "slug": "doppler",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "doppler"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Sodimas",
+      "slug": "sodimas",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "sodimas"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "MP Lifts",
+      "slug": "mp-lifts",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "mp lifts",
+        "mp ascensores"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "GMV",
+      "slug": "gmv",
+      "category": "oem_hydraulic",
+      "status": "missing",
+      "aliases": [
+        "gmv",
+        "hydraulic"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "IGV",
+      "slug": "igv",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "igv",
+        "domuslift"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "SJEC",
+      "slug": "sjec",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "sjec"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Canny / Fuji Canny",
+      "slug": "canny-fuji-canny",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "canny",
+        "fuji canny",
+        "kls",
+        "klb"
+      ],
+      "matched_local_categories": [
+        "FUJI CANNY"
+      ],
+      "priority": "normal",
+      "document_count": 2
+    },
+    {
+      "name": "IFE",
+      "slug": "ife",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "ife",
+        "ctrl80"
+      ],
+      "matched_local_categories": [
+        "IFE"
+      ],
+      "priority": "normal",
+      "document_count": 3
+    },
+    {
+      "name": "Sicher",
+      "slug": "sicher",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "sicher"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Hosting Elevator",
+      "slug": "hosting-elevator",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "hosting",
+        "ae hosting"
+      ],
+      "matched_local_categories": [
+        "AE HOSTING"
+      ],
+      "priority": "normal",
+      "document_count": 3
+    },
+    {
+      "name": "YungTai / Yungtay",
+      "slug": "yungtai-yungtay",
+      "category": "oem",
+      "status": "available",
+      "aliases": [
+        "yungtai",
+        "yungtay"
+      ],
+      "matched_local_categories": [
+        "YUNGTAI"
+      ],
+      "priority": "normal",
+      "document_count": 3
+    },
+    {
+      "name": "Sanyo Elevator",
+      "slug": "sanyo-elevator",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "sanyo elevator"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Volkslift",
+      "slug": "volkslift",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "volkslift"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Brilliant / BLT",
+      "slug": "brilliant-blt",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "blt",
+        "brilliant"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "EITA",
+      "slug": "eita",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "eita"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Express Lift Legacy",
+      "slug": "express-lift-legacy",
+      "category": "oem_legacy",
+      "status": "missing",
+      "aliases": [
+        "express lift"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Westinghouse Legacy",
+      "slug": "westinghouse-legacy",
+      "category": "oem_legacy",
+      "status": "missing",
+      "aliases": [
+        "westinghouse"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Dover Legacy",
+      "slug": "dover-legacy",
+      "category": "oem_legacy",
+      "status": "missing",
+      "aliases": [
+        "dover"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Montgomery Legacy",
+      "slug": "montgomery-legacy",
+      "category": "oem_legacy",
+      "status": "missing",
+      "aliases": [
+        "montgomery"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Fujita",
+      "slug": "fujita",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "fujita elevator"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Marohn",
+      "slug": "marohn",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "marohn"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Tianjin Otis / Xizi Otis",
+      "slug": "tianjin-otis-xizi-otis",
+      "category": "oem",
+      "status": "missing",
+      "aliases": [
+        "xizi otis",
+        "tianjin otis"
+      ],
+      "matched_local_categories": [],
+      "priority": "high",
+      "document_count": 0
+    },
+    {
+      "name": "Monarch / NICE",
+      "slug": "monarch-nice",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "monarch",
+        "nice3000",
+        "nice1000",
+        "nice7000",
+        "nice9000",
+        "mctc",
+        "slec"
+      ],
+      "matched_local_categories": [
+        "MONARCH",
+        "WELLS MONARCH",
+        "_SYNC_LIVE_IMPORTS"
+      ],
+      "priority": "normal",
+      "document_count": 29
+    },
+    {
+      "name": "STEP / AS380 / AS320",
+      "slug": "step-as380-as320",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "step",
+        "as380",
+        "as320",
+        "c7000",
+        "sm-01",
+        "f5021"
+      ],
+      "matched_local_categories": [
+        "MONARCH",
+        "STEP"
+      ],
+      "priority": "normal",
+      "document_count": 26
+    },
+    {
+      "name": "Arkel",
+      "slug": "arkel",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "arkel",
+        "arl-300",
+        "arcode"
+      ],
+      "matched_local_categories": [
+        "ARKEL"
+      ],
+      "priority": "normal",
+      "document_count": 1
+    },
+    {
+      "name": "Sicon",
+      "slug": "sicon",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "sicon",
+        "2001ci",
+        "3000sci"
+      ],
+      "matched_local_categories": [
+        "LOUSERLIFT",
+        "SICON"
+      ],
+      "priority": "normal",
+      "document_count": 8
+    },
+    {
+      "name": "BlueLight / BL2000",
+      "slug": "bluelight-bl2000",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "bluelight",
+        "bl2000",
+        "blms"
+      ],
+      "matched_local_categories": [
+        "BLUELIGHT",
+        "SOFTWARE & APK",
+        "_SYNC_LIVE_IMPORTS"
+      ],
+      "priority": "normal",
+      "document_count": 21
+    },
+    {
+      "name": "HPMONT / MONT",
+      "slug": "hpmont-mont",
+      "category": "controller_drive",
+      "status": "available",
+      "aliases": [
+        "hpmont",
+        "mont71",
+        "mont"
+      ],
+      "matched_local_categories": [
+        "HPMONT"
+      ],
+      "priority": "normal",
+      "document_count": 3
+    },
+    {
+      "name": "INVT EC Series",
+      "slug": "invt-ec-series",
+      "category": "controller_drive",
+      "status": "available",
+      "aliases": [
+        "invt",
+        "ec100",
+        "ec160"
+      ],
+      "matched_local_categories": [
+        "INVT"
+      ],
+      "priority": "normal",
+      "document_count": 3
+    },
+    {
+      "name": "Nidec / Control Techniques",
+      "slug": "nidec-control-techniques",
+      "category": "drive_controller",
+      "status": "available",
+      "aliases": [
+        "nidec",
+        "unidrive",
+        "control techniques",
+        "kinetek"
+      ],
+      "matched_local_categories": [
+        "NIDEC"
+      ],
+      "priority": "normal",
+      "document_count": 2
+    },
+    {
+      "name": "AIEC3300",
+      "slug": "aiec3300",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "aiec3300"
+      ],
+      "matched_local_categories": [
+        "AIEC3300"
+      ],
+      "priority": "normal",
+      "document_count": 1
+    },
+    {
+      "name": "Ningbo / Hongda",
+      "slug": "ningbo-hongda",
+      "category": "controller",
+      "status": "partial",
+      "aliases": [
+        "ningbo",
+        "hongda",
+        "s50-e6"
+      ],
+      "matched_local_categories": [
+        "AE HOSTING",
+        "ALL DOOR INVERTERS",
+        "IFE"
+      ],
+      "priority": "high",
+      "document_count": 17
+    },
+    {
+      "name": "Smart Lift",
+      "slug": "smart-lift",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "smart lift"
+      ],
+      "matched_local_categories": [
+        "SMART LIFT"
+      ],
+      "priority": "normal",
+      "document_count": 2
+    },
+    {
+      "name": "SRH",
+      "slug": "srh",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "srh"
+      ],
+      "matched_local_categories": [
+        "SRH"
+      ],
+      "priority": "normal",
+      "document_count": 2
+    },
+    {
+      "name": "Sword",
+      "slug": "sword",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "sword",
+        "hamcb",
+        "halcmb"
+      ],
+      "matched_local_categories": [
+        "SWORD"
+      ],
+      "priority": "normal",
+      "document_count": 4
+    },
+    {
+      "name": "Tyseen",
+      "slug": "tyseen",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "tyseen",
+        "mc2-b"
+      ],
+      "matched_local_categories": [
+        "TYSEEN"
+      ],
+      "priority": "normal",
+      "document_count": 2
+    },
+    {
+      "name": "Mico M3",
+      "slug": "mico-m3",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "mico",
+        "m3p"
+      ],
+      "matched_local_categories": [
+        "MICO M3",
+        "SCHINDLER"
+      ],
+      "priority": "normal",
+      "document_count": 11
+    },
+    {
+      "name": "Louserlift",
+      "slug": "louserlift",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "louserlift",
+        "sicon"
+      ],
+      "matched_local_categories": [
+        "LOUSERLIFT",
+        "SICON"
+      ],
+      "priority": "normal",
+      "document_count": 8
+    },
+    {
+      "name": "Wells Monarch",
+      "slug": "wells-monarch",
+      "category": "controller",
+      "status": "available",
+      "aliases": [
+        "wells",
+        "wells monarch"
+      ],
+      "matched_local_categories": [
+        "WELLS MONARCH"
+      ],
+      "priority": "normal",
+      "document_count": 1
+    },
+    {
+      "name": "Yaskawa",
+      "slug": "yaskawa",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "yaskawa",
+        "l1000a",
+        "l1000v",
+        "ga700"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Fuji Electric / Frenic Lift",
+      "slug": "fuji-electric-frenic-lift",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "fuji electric",
+        "frenic",
+        "frenic-lift"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Delta",
+      "slug": "delta",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "delta",
+        "ied",
+        "cp2000",
+        "ms300"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Siemens",
+      "slug": "siemens",
+      "category": "drive",
+      "status": "available",
+      "aliases": [
+        "siemens",
+        "sm5000",
+        "micromaster",
+        "sinamics"
+      ],
+      "matched_local_categories": [
+        "SIEMENS"
+      ],
+      "priority": "normal",
+      "document_count": 1
+    },
+    {
+      "name": "Schneider Electric",
+      "slug": "schneider-electric",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "schneider",
+        "altivar",
+        "atv"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Ziehl-Abegg",
+      "slug": "ziehl-abegg",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "ziehl",
+        "ziehl-abegg",
+        "zeta"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Gefran",
+      "slug": "gefran",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "gefran",
+        "adp200"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "LS Electric",
+      "slug": "ls-electric",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "ls electric",
+        "lg inverter",
+        "sv-i"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Omron",
+      "slug": "omron",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "omron",
+        "3g3"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Mitsubishi Inverter",
+      "slug": "mitsubishi-inverter",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "mitsubishi inverter",
+        "fr-a",
+        "fr-e"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Toshiba Drive",
+      "slug": "toshiba-drive",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "toshiba drive",
+        "tosvert"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "ABB",
+      "slug": "abb",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "abb",
+        "acs"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Danfoss",
+      "slug": "danfoss",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "danfoss",
+        "vlt"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "KEB",
+      "slug": "keb",
+      "category": "drive",
+      "status": "missing",
+      "aliases": [
+        "keb",
+        "combivert"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Wittur / Selcom",
+      "slug": "wittur-selcom",
+      "category": "door_system",
+      "status": "missing",
+      "aliases": [
+        "wittur",
+        "selcom",
+        "hydra",
+        "augusta"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Fermator",
+      "slug": "fermator",
+      "category": "door_system",
+      "status": "missing",
+      "aliases": [
+        "fermator",
+        "vvvf door"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Sematic",
+      "slug": "sematic",
+      "category": "door_system",
+      "status": "missing",
+      "aliases": [
+        "sematic"
+      ],
+      "matched_local_categories": [],
+      "priority": "normal",
+      "document_count": 0
+    },
+    {
+      "name": "Panasonic Door Operator",
+      "slug": "panasonic-door-operator",
+      "category": "door_drive",
+      "status": "partial",
+      "aliases": [
+        "panasonic door",
+        "panasonic"
+      ],
+      "matched_local_categories": [
+        "ALL DOOR INVERTERS"
+      ],
+      "priority": "normal",
+      "document_count": 11
+    },
+    {
+      "name": "Emerson Door Drive",
+      "slug": "emerson-door-drive",
+      "category": "door_drive",
+      "status": "partial",
+      "aliases": [
+        "emerson",
+        "td3200",
+        "ev3200"
+      ],
+      "matched_local_categories": [
+        "ALL DOOR INVERTERS"
+      ],
+      "priority": "normal",
+      "document_count": 11
+    },
+    {
+      "name": "Ningbo Door Inverter",
+      "slug": "ningbo-door-inverter",
+      "category": "door_drive",
+      "status": "partial",
+      "aliases": [
+        "nsfc01",
+        "ningbo door"
+      ],
+      "matched_local_categories": [
+        "ALL DOOR INVERTERS"
+      ],
+      "priority": "normal",
+      "document_count": 11
+    },
+    {
+      "name": "Ouling Door Drive",
+      "slug": "ouling-door-drive",
+      "category": "door_drive",
+      "status": "partial",
+      "aliases": [
+        "ouling",
+        "vf200"
+      ],
+      "matched_local_categories": [
+        "ALL DOOR INVERTERS"
+      ],
+      "priority": "normal",
+      "document_count": 11
+    },
+    {
+      "name": "YS-K01 Door Drive",
+      "slug": "ys-k01-door-drive",
+      "category": "door_drive",
+      "status": "partial",
+      "aliases": [
+        "ys-k01"
+      ],
+      "matched_local_categories": [
+        "ALL DOOR INVERTERS"
+      ],
+      "priority": "normal",
+      "document_count": 11
+    },
+    {
+      "name": "DO3000 Door Drive",
+      "slug": "do3000-door-drive",
+      "category": "door_drive",
+      "status": "partial",
+      "aliases": [
+        "do3000"
+      ],
+      "matched_local_categories": [
+        "ALL DOOR INVERTERS"
+      ],
+      "priority": "normal",
+      "document_count": 11
+    },
+    {
+      "name": "Load Weighing Controllers",
+      "slug": "load-weighing-controllers",
+      "category": "component",
+      "status": "available",
+      "aliases": [
+        "loadcell",
+        "load weighing",
+        "dtzz",
+        "dk100",
+        "dk200",
+        "dc1s"
+      ],
+      "matched_local_categories": [
+        "LOADCELL"
+      ],
+      "priority": "normal",
+      "document_count": 4
+    },
+    {
+      "name": "Display / HOP / COP / LOP",
+      "slug": "display-hop-cop-lop",
+      "category": "component",
+      "status": "partial",
+      "aliases": [
+        "display",
+        "hop",
+        "cop",
+        "lop",
+        "mctc-hcb",
+        "hcb-b6"
+      ],
+      "matched_local_categories": [
+        "MONARCH"
+      ],
+      "priority": "normal",
+      "document_count": 18
+    },
+    {
+      "name": "Escalator Controllers",
+      "slug": "escalator-controllers",
+      "category": "escalator",
+      "status": "available",
+      "aliases": [
+        "escalator",
+        "nice2000"
+      ],
+      "matched_local_categories": [
+        "ESCALATOR"
+      ],
+      "priority": "normal",
+      "document_count": 2
+    }
+  ]
+}

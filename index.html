@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>ANS Elevator Library</title>
+  <style>
+    :root{--bg:#05070a;--panel:#071016;--line:#00ffd544;--cyan:#00ffd5;--green:#39ff14;--text:#d7fff6;--muted:#8ac7bd;--red:#ff4d6d;--yellow:#ffd166}
+    *{box-sizing:border-box} body{margin:0;background:radial-gradient(circle at top,#08242a,#05070a 45%);color:var(--text);font-family:Consolas,Monaco,monospace}
+    header{padding:24px;border-bottom:1px solid var(--line);background:#071016cc;position:sticky;top:0;z-index:3;backdrop-filter:blur(6px)}
+    h1{margin:0;color:var(--cyan);letter-spacing:2px;text-shadow:0 0 16px #00ffd577}.sub{color:var(--muted);margin-top:6px}.wrap{padding:18px;max-width:1200px;margin:auto}
+    .bar{display:flex;gap:8px;flex-wrap:wrap;margin:14px 0}.bar>*{background:#071016;color:var(--text);border:1px solid #00ffd577;padding:10px;border-radius:6px}.bar input{min-width:280px;flex:1}
+    .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px;margin:14px 0}.stat{border:1px solid var(--line);background:#07101699;padding:12px;border-radius:8px}.num{font-size:24px;color:var(--cyan)}
+    .tabs button{cursor:pointer}.tabs .on{background:#00352f;color:#fff;border-color:var(--cyan)}
+    a{color:var(--green);text-decoration:none}.card{border:1px solid #00ffd533;background:#071016b8;margin:10px 0;padding:12px;border-radius:8px;box-shadow:0 0 14px #00ffd511}.muted{color:var(--muted)}
+    .badge{display:inline-block;padding:2px 8px;border-radius:999px;margin:0 4px;border:1px solid}.available{color:var(--green);border-color:var(--green)}.partial{color:var(--yellow);border-color:var(--yellow)}.missing{color:var(--red);border-color:var(--red)}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:10px}.small{font-size:12px}.hide{display:none}
+  </style>
+</head>
+<body>
+<header>
+  <h1>ANS ELEVATOR LIBRARY</h1>
+  <div class="sub">// global structure · manuals · wiring · fault codes · parameters</div>
+</header>
+<div class="wrap">
+  <div class="stats" id="stats"></div>
+  <div class="bar tabs">
+    <button id="tabDocs" class="on">DOCUMENTS</button>
+    <button id="tabBrands">GLOBAL BRAND STRUCTURE</button>
+  </div>
+  <div class="bar">
+    <input id="q" placeholder="search brand/model/fault/wiring/controller...">
+    <select id="brand"><option value="">ALL LOCAL CATEGORY</option></select>
+    <select id="status"><option value="">ALL STATUS</option><option>available</option><option>partial</option><option>missing</option></select>
+    <select id="category"><option value="">ALL TYPE</option></select>
+  </div>
+  <div id="stat" class="muted"></div>
+  <div id="list"></div>
+</div>
+<script>
+let catalog=null, docs=[], brands=[], mode='docs';
+const q=document.getElementById('q'), brand=document.getElementById('brand'), statusSel=document.getElementById('status'), catSel=document.getElementById('category'), list=document.getElementById('list'), stat=document.getElementById('stat'), stats=document.getElementById('stats');
+const tabDocs=document.getElementById('tabDocs'), tabBrands=document.getElementById('tabBrands');
+fetch('/catalog.json').then(r=>r.json()).then(c=>{catalog=c;docs=c.documents||[];brands=c.brand_index||c.global_taxonomy?.items||[];init();render();});
+function init(){
+  [...new Set(docs.map(d=>d.brand))].sort().forEach(b=>brand.add(new Option(b,b)));
+  [...new Set(brands.map(b=>b.category))].sort().forEach(b=>catSel.add(new Option(b,b)));
+  const gt=catalog.global_taxonomy||{};
+  stats.innerHTML=`<div class=stat><div class=num>${docs.length}</div><div>LOCAL DOCS</div></div><div class=stat><div class=num>${gt.total_items||brands.length}</div><div>GLOBAL STRUCTURE</div></div><div class=stat><div class=num>${gt.available||0}</div><div>AVAILABLE</div></div><div class=stat><div class=num>${gt.partial||0}</div><div>PARTIAL</div></div><div class=stat><div class=num>${gt.missing||0}</div><div>MISSING</div></div>`;
+}
+function badge(s){return `<span class="badge ${s}">${s.toUpperCase()}</span>`}
+function render(){
+  const s=q.value.toLowerCase(), b=brand.value, st=statusSel.value, ct=catSel.value;
+  brand.classList.toggle('hide',mode==='brands'); statusSel.classList.toggle('hide',mode==='docs'); catSel.classList.toggle('hide',mode==='docs');
+  if(mode==='docs'){
+    let r=docs.filter(d=>(!b||d.brand===b)&&(!s||JSON.stringify(d).toLowerCase().includes(s))).slice(0,300);
+    stat.textContent=`${r.length} shown / ${docs.length} docs`;
+    list.className='';
+    list.innerHTML=r.map(d=>`<div class=card><b>${d.brand}</b> · ${d.type}<br><a href="${d.url}" target="_blank">${d.title}</a><br><span class=muted>${d.file} · ${(d.size/1048576).toFixed(1)} MB</span></div>`).join('');
+  } else {
+    let r=brands.filter(x=>(!st||x.status===st)&&(!ct||x.category===ct)&&(!s||JSON.stringify(x).toLowerCase().includes(s)));
+    stat.textContent=`${r.length} shown / ${brands.length} global items`;
+    list.className='grid';
+    list.innerHTML=r.map(x=>`<div class=card><b>${x.name}</b> ${badge(x.status)}<br><span class=muted>${x.category} · docs:${x.document_count||0}</span><br><span class=small>match: ${(x.matched_local_categories||[]).join(', ')||'-'}</span><br>${x.status==='missing'?'<span class="small muted">placeholder: dokumen belum tersedia, masuk daftar scout</span>':'<span class="small muted">ready/partial in local library</span>'}</div>`).join('');
+  }
+}
+q.oninput=render;brand.onchange=render;statusSel.onchange=render;catSel.onchange=render;
+tabDocs.onclick=()=>{mode='docs';tabDocs.classList.add('on');tabBrands.classList.remove('on');render()};
+tabBrands.onclick=()=>{mode='brands';tabBrands.classList.add('on');tabDocs.classList.remove('on');render()};
+</script>
+</body>
+</html>

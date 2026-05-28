@@ -1,0 +1,4847 @@
+{
+  "name": "ANS Elevator Library",
+  "version": "2026.05.28.1704",
+  "source": "Andhias local ELCI elevator cloud library",
+  "count": 140,
+  "generated_at": "2026-05-28T09:01:00.989393+00:00",
+  "documents": [
+    {
+      "id": "c530720f6d29",
+      "brand": "_SYNC_LIVE_IMPORTS",
+      "type": "software-doc-package",
+      "title": "20081030162737391",
+      "file": "_SYNC_LIVE_IMPORTS/TOOLS & SOFTWARE/BLMS(English) V1.11/Resources/PictureBackGround/20081030162737391.jpg",
+      "r2_key": "files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Resources/PictureBackGround/20081030162737391.jpg",
+      "url": "/files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Resources/PictureBackGround/20081030162737391.jpg",
+      "size": 22550,
+      "ext": "jpg",
+      "tags": [
+        "20081030162737391",
+        "blms",
+        "english",
+        "imports",
+        "jpg",
+        "live",
+        "picturebackground",
+        "resources",
+        "software",
+        "sync",
+        "tools"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "52e822217fe7",
+      "brand": "_SYNC_LIVE_IMPORTS",
+      "type": "manual",
+      "title": "ANS860-B NEW",
+      "file": "_SYNC_LIVE_IMPORTS/ANS860-B NEW.pdf",
+      "r2_key": "files/_SYNC_LIVE_IMPORTS/ANS860-B NEW.pdf",
+      "url": "/files/_SYNC_LIVE_IMPORTS/ANS860-B NEW.pdf",
+      "size": 5314577,
+      "ext": "pdf",
+      "tags": [
+        "ans860",
+        "imports",
+        "live",
+        "new",
+        "pdf",
+        "sync"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "0b3fcad9889c",
+      "brand": "_SYNC_LIVE_IMPORTS",
+      "type": "software-doc-package",
+      "title": "B0 背景",
+      "file": "_SYNC_LIVE_IMPORTS/TOOLS & SOFTWARE/BLMS(English) V1.11/Resources/PictureBackGround/B0 背景.jpg",
+      "r2_key": "files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Resources/PictureBackGround/B0 %E8%83%8C%E6%99%AF.jpg",
+      "url": "/files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Resources/PictureBackGround/B0 %E8%83%8C%E6%99%AF.jpg",
+      "size": 67399,
+      "ext": "jpg",
+      "tags": [
+        "blms",
+        "english",
+        "imports",
+        "jpg",
+        "live",
+        "picturebackground",
+        "resources",
+        "software",
+        "sync",
+        "tools"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "bfd26846c3da",
+      "brand": "_SYNC_LIVE_IMPORTS",
+      "type": "software-doc-package",
+      "title": "B1 背景",
+      "file": "_SYNC_LIVE_IMPORTS/TOOLS & SOFTWARE/BLMS(English) V1.11/Resources/PictureBackGround/B1 背景.bmp",
+      "r2_key": "files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Resources/PictureBackGround/B1 %E8%83%8C%E6%99%AF.bmp",
+      "url": "/files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Resources/PictureBackGround/B1 %E8%83%8C%E6%99%AF.bmp",
+      "size": 391734,
+      "ext": "bmp",
+      "tags": [
+        "blms",
+        "bmp",
+        "english",
+        "imports",
+        "live",
+        "picturebackground",
+        "resources",
+        "software",
+        "sync",
+        "tools"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "09d3dbf66680",
+      "brand": "_SYNC_LIVE_IMPORTS",
+      "type": "software-doc-package",
+      "title": "BackGroup",
+      "file": "_SYNC_LIVE_IMPORTS/TOOLS & SOFTWARE/BLMS(English) V1.11/Resources/PictureBackGround/BackGroup.jpg",
+      "r2_key": "files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Resources/PictureBackGround/BackGroup.jpg",
+      "url": "/files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Resources/PictureBackGround/BackGroup.jpg",
+      "size": 67788,
+      "ext": "jpg",
+      "tags": [
+        "backgroup",
+        "blms",
+        "english",
+        "imports",
+        "jpg",
+        "live",
+        "picturebackground",
+        "resources",
+        "software",
+        "sync",
+        "tools"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "ee5a49efc22f",
+      "brand": "_SYNC_LIVE_IMPORTS",
+      "type": "software-doc-package",
+      "title": "BLMS software manunal",
+      "file": "_SYNC_LIVE_IMPORTS/TOOLS & SOFTWARE/BLMS(English) V1.11/BLMS software manunal.pdf",
+      "r2_key": "files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/BLMS software manunal.pdf",
+      "url": "/files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/BLMS software manunal.pdf",
+      "size": 3153484,
+      "ext": "pdf",
+      "tags": [
+        "blms",
+        "english",
+        "imports",
+        "live",
+        "manunal",
+        "pdf",
+        "software",
+        "sync",
+        "tools"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "a4eb592468ed",
+      "brand": "_SYNC_LIVE_IMPORTS",
+      "type": "parameter-debugging",
+      "title": "Blu simple debug",
+      "file": "_SYNC_LIVE_IMPORTS/TOOLS & SOFTWARE/BLMS(English) V1.11/Blu simple debug.pdf",
+      "r2_key": "files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Blu simple debug.pdf",
+      "url": "/files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Blu simple debug.pdf",
+      "size": 674811,
+      "ext": "pdf",
+      "tags": [
+        "blms",
+        "blu",
+        "debug",
+        "english",
+        "imports",
+        "live",
+        "pdf",
+        "simple",
+        "software",
+        "sync",
+        "tools"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "b8e87ea6c132",
+      "brand": "_SYNC_LIVE_IMPORTS",
+      "type": "software-doc-package",
+      "title": "Blu-3 manu(Chinese)",
+      "file": "_SYNC_LIVE_IMPORTS/TOOLS & SOFTWARE/BLMS(English) V1.11/Blu-3 manu(Chinese).pdf",
+      "r2_key": "files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Blu-3 manu(Chinese).pdf",
+      "url": "/files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Blu-3 manu(Chinese).pdf",
+      "size": 2878838,
+      "ext": "pdf",
+      "tags": [
+        "blms",
+        "blu",
+        "chinese",
+        "english",
+        "imports",
+        "live",
+        "manu",
+        "pdf",
+        "software",
+        "sync",
+        "tools"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "5209fb152f5e",
+      "brand": "_SYNC_LIVE_IMPORTS",
+      "type": "software-doc-package",
+      "title": "Blu-3 manu(English)",
+      "file": "_SYNC_LIVE_IMPORTS/TOOLS & SOFTWARE/BLMS(English) V1.11/Blu-3 manu(English).pdf",
+      "r2_key": "files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Blu-3 manu(English).pdf",
+      "url": "/files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/BLMS(English) V1.11/Blu-3 manu(English).pdf",
+      "size": 2952919,
+      "ext": "pdf",
+      "tags": [
+        "blms",
+        "blu",
+        "english",
+        "imports",
+        "live",
+        "manu",
+        "pdf",
+        "software",
+        "sync",
+        "tools"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "4a9ac2927a0b",
+      "brand": "_SYNC_LIVE_IMPORTS",
+      "type": "software-doc-package",
+      "title": "Soft LCD MCTC-DCB M",
+      "file": "_SYNC_LIVE_IMPORTS/TOOLS & SOFTWARE/Soft LCD MCTC-DCB M.zip",
+      "r2_key": "files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/Soft LCD MCTC-DCB M.zip",
+      "url": "/files/_SYNC_LIVE_IMPORTS/TOOLS %26 SOFTWARE/Soft LCD MCTC-DCB M.zip",
+      "size": 74930655,
+      "ext": "zip",
+      "tags": [
+        "dcb",
+        "imports",
+        "lcd",
+        "live",
+        "mctc",
+        "soft",
+        "software",
+        "sync",
+        "tools",
+        "zip"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "411d4f5e62ac",
+      "brand": "AE HOSTING",
+      "type": "manual",
+      "title": "manual book lift ningbo  hongda",
+      "file": "AE HOSTING/manual book lift ningbo  hongda.pdf",
+      "r2_key": "files/AE HOSTING/manual book lift ningbo  hongda.pdf",
+      "url": "/files/AE HOSTING/manual book lift ningbo  hongda.pdf",
+      "size": 1923880,
+      "ext": "pdf",
+      "tags": [
+        "book",
+        "hongda",
+        "hosting",
+        "lift",
+        "manual",
+        "ningbo",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "222aacd27cb6",
+      "brand": "AE HOSTING",
+      "type": "manual",
+      "title": "S50-E6-Ae5",
+      "file": "AE HOSTING/S50-E6-Ae5.pdf",
+      "r2_key": "files/AE HOSTING/S50-E6-Ae5.pdf",
+      "url": "/files/AE HOSTING/S50-E6-Ae5.pdf",
+      "size": 1117089,
+      "ext": "pdf",
+      "tags": [
+        "ae5",
+        "hosting",
+        "pdf",
+        "s50"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "004d831d4dcc",
+      "brand": "AE HOSTING",
+      "type": "wiring",
+      "title": "Wiring_Homelift_the_rooms",
+      "file": "AE HOSTING/Wiring_Homelift_the_rooms.pdf",
+      "r2_key": "files/AE HOSTING/Wiring_Homelift_the_rooms.pdf",
+      "url": "/files/AE HOSTING/Wiring_Homelift_the_rooms.pdf",
+      "size": 20496051,
+      "ext": "pdf",
+      "tags": [
+        "homelift",
+        "hosting",
+        "pdf",
+        "rooms",
+        "the",
+        "wiring"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "13c1a1accbdb",
+      "brand": "AIEC3300",
+      "type": "manual",
+      "title": "User Manal Integrated Elevator Controller AIEC3300 Series User Manual",
+      "file": "AIEC3300/User Manal Integrated Elevator Controller AIEC3300 Series User Manual.pdf",
+      "r2_key": "files/AIEC3300/User Manal Integrated Elevator Controller AIEC3300 Series User Manual.pdf",
+      "url": "/files/AIEC3300/User Manal Integrated Elevator Controller AIEC3300 Series User Manual.pdf",
+      "size": 3400413,
+      "ext": "pdf",
+      "tags": [
+        "aiec3300",
+        "controller",
+        "elevator",
+        "integrated",
+        "manal",
+        "manual",
+        "pdf",
+        "series",
+        "user"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "a1dafe233afb",
+      "brand": "ALL DOOR INVERTERS",
+      "type": "manual",
+      "title": "1. Guia rapida configuracion Drive PMSM",
+      "file": "ALL DOOR INVERTERS/1. Guia rapida configuracion Drive PMSM.pdf",
+      "r2_key": "files/ALL DOOR INVERTERS/1. Guia rapida configuracion Drive PMSM.pdf",
+      "url": "/files/ALL DOOR INVERTERS/1. Guia rapida configuracion Drive PMSM.pdf",
+      "size": 984403,
+      "ext": "pdf",
+      "tags": [
+        "all",
+        "configuracion",
+        "door",
+        "drive",
+        "guia",
+        "inverters",
+        "pdf",
+        "pmsm",
+        "rapida"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "0b0a71142ddb",
+      "brand": "ALL DOOR INVERTERS",
+      "type": "manual",
+      "title": "104646200-Control-Ningbo-Nbsl-Nsfc01-01-Control-System-4sw",
+      "file": "ALL DOOR INVERTERS/104646200-Control-Ningbo-Nbsl-Nsfc01-01-Control-System-4sw.pdf",
+      "r2_key": "files/ALL DOOR INVERTERS/104646200-Control-Ningbo-Nbsl-Nsfc01-01-Control-System-4sw.pdf",
+      "url": "/files/ALL DOOR INVERTERS/104646200-Control-Ningbo-Nbsl-Nsfc01-01-Control-System-4sw.pdf",
+      "size": 381524,
+      "ext": "pdf",
+      "tags": [
+        "104646200",
+        "4sw",
+        "all",
+        "control",
+        "door",
+        "inverters",
+        "nbsl",
+        "ningbo",
+        "nsfc01",
+        "pdf",
+        "system"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "5b24a10bef38",
+      "brand": "ALL DOOR INVERTERS",
+      "type": "manual",
+      "title": "20110629-2 PM Door Operator Trainning",
+      "file": "ALL DOOR INVERTERS/20110629-2 PM Door Operator Trainning.pdf",
+      "r2_key": "files/ALL DOOR INVERTERS/20110629-2 PM Door Operator Trainning.pdf",
+      "url": "/files/ALL DOOR INVERTERS/20110629-2 PM Door Operator Trainning.pdf",
+      "size": 984603,
+      "ext": "pdf",
+      "tags": [
+        "20110629",
+        "all",
+        "door",
+        "inverters",
+        "operator",
+        "pdf",
+        "trainning"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "a83f6c6ddcf8",
+      "brand": "ALL DOOR INVERTERS",
+      "type": "manual",
+      "title": "DO3000 Manual_EN-1",
+      "file": "ALL DOOR INVERTERS/DO3000 Manual_EN-1.pdf",
+      "r2_key": "files/ALL DOOR INVERTERS/DO3000 Manual_EN-1.pdf",
+      "url": "/files/ALL DOOR INVERTERS/DO3000 Manual_EN-1.pdf",
+      "size": 1470141,
+      "ext": "pdf",
+      "tags": [
+        "all",
+        "do3000",
+        "door",
+        "inverters",
+        "manual",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "f89819a0789f",
+      "brand": "ALL DOOR INVERTERS",
+      "type": "manual",
+      "title": "Emerson ev3200",
+      "file": "ALL DOOR INVERTERS/Emerson ev3200.pdf",
+      "r2_key": "files/ALL DOOR INVERTERS/Emerson ev3200.pdf",
+      "url": "/files/ALL DOOR INVERTERS/Emerson ev3200.pdf",
+      "size": 828394,
+      "ext": "pdf",
+      "tags": [
+        "all",
+        "door",
+        "emerson",
+        "ev3200",
+        "inverters",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "59ba0ec4614c",
+      "brand": "ALL DOOR INVERTERS",
+      "type": "manual",
+      "title": "Manual of EMERSON TD3200 commissioning-1",
+      "file": "ALL DOOR INVERTERS/Manual of EMERSON TD3200 commissioning-1.pdf",
+      "r2_key": "files/ALL DOOR INVERTERS/Manual of EMERSON TD3200 commissioning-1.pdf",
+      "url": "/files/ALL DOOR INVERTERS/Manual of EMERSON TD3200 commissioning-1.pdf",
+      "size": 275756,
+      "ext": "pdf",
+      "tags": [
+        "all",
+        "commissioning",
+        "door",
+        "emerson",
+        "inverters",
+        "manual",
+        "pdf",
+        "td3200"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "bae0df451a8c",
+      "brand": "ALL DOOR INVERTERS",
+      "type": "manual",
+      "title": "Manual of NSFC01-G220 Door Controller",
+      "file": "ALL DOOR INVERTERS/Manual of NSFC01-G220 Door Controller.PDF",
+      "r2_key": "files/ALL DOOR INVERTERS/Manual of NSFC01-G220 Door Controller.PDF",
+      "url": "/files/ALL DOOR INVERTERS/Manual of NSFC01-G220 Door Controller.PDF",
+      "size": 3084808,
+      "ext": "pdf",
+      "tags": [
+        "all",
+        "controller",
+        "door",
+        "g220",
+        "inverters",
+        "manual",
+        "nsfc01",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "7c22e1a97bef",
+      "brand": "ALL DOOR INVERTERS",
+      "type": "manual",
+      "title": "panasonic door operator AAD0302DKT01 - NSFC01-01",
+      "file": "ALL DOOR INVERTERS/panasonic door operator AAD0302DKT01 - NSFC01-01.pdf",
+      "r2_key": "files/ALL DOOR INVERTERS/panasonic door operator AAD0302DKT01 - NSFC01-01.pdf",
+      "url": "/files/ALL DOOR INVERTERS/panasonic door operator AAD0302DKT01 - NSFC01-01.pdf",
+      "size": 449063,
+      "ext": "pdf",
+      "tags": [
+        "aad0302dkt01",
+        "all",
+        "door",
+        "inverters",
+        "nsfc01",
+        "operator",
+        "panasonic",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "cf830b9523b6",
+      "brand": "ALL DOOR INVERTERS",
+      "type": "manual",
+      "title": "pdf-manual-ouling-vf200_compress",
+      "file": "ALL DOOR INVERTERS/pdf-manual-ouling-vf200_compress.pdf",
+      "r2_key": "files/ALL DOOR INVERTERS/pdf-manual-ouling-vf200_compress.pdf",
+      "url": "/files/ALL DOOR INVERTERS/pdf-manual-ouling-vf200_compress.pdf",
+      "size": 216955,
+      "ext": "pdf",
+      "tags": [
+        "all",
+        "compress",
+        "door",
+        "inverters",
+        "manual",
+        "ouling",
+        "pdf",
+        "vf200"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "944e18ff13a7",
+      "brand": "ALL DOOR INVERTERS",
+      "type": "manual",
+      "title": "YS-K01 MSΦï▒µûç(1)",
+      "file": "ALL DOOR INVERTERS/YS-K01 MSΦï▒µûç(1).pdf",
+      "r2_key": "files/ALL DOOR INVERTERS/YS-K01 MS%CE%A6%C3%AF%E2%96%92%C2%B5%C3%BB%C3%A7(1).pdf",
+      "url": "/files/ALL DOOR INVERTERS/YS-K01 MS%CE%A6%C3%AF%E2%96%92%C2%B5%C3%BB%C3%A7(1).pdf",
+      "size": 323441,
+      "ext": "pdf",
+      "tags": [
+        "all",
+        "door",
+        "inverters",
+        "k01",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "c83339e091c8",
+      "brand": "ALL DOOR INVERTERS",
+      "type": "manual",
+      "title": "YS-K01 MS英文(1)",
+      "file": "ALL DOOR INVERTERS/YS-K01 MS英文(1).pdf",
+      "r2_key": "files/ALL DOOR INVERTERS/YS-K01 MS%E8%8B%B1%E6%96%87(1).pdf",
+      "url": "/files/ALL DOOR INVERTERS/YS-K01 MS%E8%8B%B1%E6%96%87(1).pdf",
+      "size": 323441,
+      "ext": "pdf",
+      "tags": [
+        "all",
+        "door",
+        "inverters",
+        "k01",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "4037f3b5a572",
+      "brand": "ARKEL",
+      "type": "fault-code",
+      "title": "ARL-300 Error Codes and Possible Solutions.V202.en",
+      "file": "ARKEL/ARL-300 Error Codes and Possible Solutions.V202.en.pdf",
+      "r2_key": "files/ARKEL/ARL-300 Error Codes and Possible Solutions.V202.en.pdf",
+      "url": "/files/ARKEL/ARL-300 Error Codes and Possible Solutions.V202.en.pdf",
+      "size": 1287868,
+      "ext": "pdf",
+      "tags": [
+        "300",
+        "and",
+        "arkel",
+        "arl",
+        "codes",
+        "error",
+        "pdf",
+        "possible",
+        "solutions",
+        "v202"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "76df860eb1be",
+      "brand": "BLUELIGHT",
+      "type": "manual",
+      "title": "Manual BL2000",
+      "file": "BLUELIGHT/Manual BL2000.pdf",
+      "r2_key": "files/BLUELIGHT/Manual BL2000.pdf",
+      "url": "/files/BLUELIGHT/Manual BL2000.pdf",
+      "size": 7876225,
+      "ext": "pdf",
+      "tags": [
+        "bl2000",
+        "bluelight",
+        "manual",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "c24469012c2c",
+      "brand": "CIBES",
+      "type": "manual",
+      "title": "Cibes A5 CiCon OM Manual",
+      "file": "CIBES/Cibes A5 CiCon OM Manual.pdf",
+      "r2_key": "files/CIBES/Cibes A5 CiCon OM Manual.pdf",
+      "url": "/files/CIBES/Cibes A5 CiCon OM Manual.pdf",
+      "size": 2284537,
+      "ext": "pdf",
+      "tags": [
+        "cibes",
+        "cicon",
+        "manual",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "5bd403a3dd8c",
+      "brand": "CIBES",
+      "type": "parameter-debugging",
+      "title": "Cibes A5 CiDis Parameters",
+      "file": "CIBES/Cibes A5 CiDis Parameters.pdf",
+      "r2_key": "files/CIBES/Cibes A5 CiDis Parameters.pdf",
+      "url": "/files/CIBES/Cibes A5 CiDis Parameters.pdf",
+      "size": 744347,
+      "ext": "pdf",
+      "tags": [
+        "cibes",
+        "cidis",
+        "parameters",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "33d115dacacf",
+      "brand": "ESCALATOR",
+      "type": "manual",
+      "title": "NICE2000_Escalator_Integrated_Controller_User_Manual",
+      "file": "ESCALATOR/NICE2000_Escalator_Integrated_Controller_User_Manual.pdf",
+      "r2_key": "files/ESCALATOR/NICE2000_Escalator_Integrated_Controller_User_Manual.pdf",
+      "url": "/files/ESCALATOR/NICE2000_Escalator_Integrated_Controller_User_Manual.pdf",
+      "size": 1165443,
+      "ext": "pdf",
+      "tags": [
+        "controller",
+        "escalator",
+        "integrated",
+        "manual",
+        "nice2000",
+        "pdf",
+        "user"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "eedee11896ef",
+      "brand": "ESCALATOR",
+      "type": "wiring",
+      "title": "wiring escalator fuji yang",
+      "file": "ESCALATOR/wiring escalator fuji yang.pdf",
+      "r2_key": "files/ESCALATOR/wiring escalator fuji yang.pdf",
+      "url": "/files/ESCALATOR/wiring escalator fuji yang.pdf",
+      "size": 3920381,
+      "ext": "pdf",
+      "tags": [
+        "escalator",
+        "fuji",
+        "pdf",
+        "wiring",
+        "yang"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "6f89232d848a",
+      "brand": "FUJI CANNY",
+      "type": "manual",
+      "title": "mcu kls f-manual-2017v10-1-",
+      "file": "FUJI CANNY/mcu kls f-manual-2017v10-1-.pdf",
+      "r2_key": "files/FUJI CANNY/mcu kls f-manual-2017v10-1-.pdf",
+      "url": "/files/FUJI CANNY/mcu kls f-manual-2017v10-1-.pdf",
+      "size": 6677995,
+      "ext": "pdf",
+      "tags": [
+        "2017v10",
+        "canny",
+        "fuji",
+        "kls",
+        "manual",
+        "mcu",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "e44db345ea2d",
+      "brand": "FUJI CANNY",
+      "type": "wiring",
+      "title": "Wiring Fuji Canny KLB MCU D10D320",
+      "file": "FUJI CANNY/Wiring Fuji Canny KLB MCU D10D320.pdf",
+      "r2_key": "files/FUJI CANNY/Wiring Fuji Canny KLB MCU D10D320.pdf",
+      "url": "/files/FUJI CANNY/Wiring Fuji Canny KLB MCU D10D320.pdf",
+      "size": 359141,
+      "ext": "pdf",
+      "tags": [
+        "canny",
+        "d10d320",
+        "fuji",
+        "klb",
+        "mcu",
+        "pdf",
+        "wiring"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "2ca7cf27ef09",
+      "brand": "Fujitec",
+      "type": "wiring",
+      "title": "Wiring Fujitec CP40 ",
+      "file": "Fujitec/Wiring Fujitec CP40 .pdf",
+      "r2_key": "files/Fujitec/Wiring Fujitec CP40 .pdf",
+      "url": "/files/Fujitec/Wiring Fujitec CP40 .pdf",
+      "size": 10184458,
+      "ext": "pdf",
+      "tags": [
+        "cp40",
+        "fujitec",
+        "pdf",
+        "wiring"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "c824314edffd",
+      "brand": "HPMONT",
+      "type": "manual",
+      "title": "HP mount Perameter fff",
+      "file": "HPMONT/HP mount Perameter fff.pdf",
+      "r2_key": "files/HPMONT/HP mount Perameter fff.pdf",
+      "url": "/files/HPMONT/HP mount Perameter fff.pdf",
+      "size": 547946,
+      "ext": "pdf",
+      "tags": [
+        "fff",
+        "hpmont",
+        "mount",
+        "pdf",
+        "perameter"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "7b029e0e7f6c",
+      "brand": "HPMONT",
+      "type": "fault-code",
+      "title": "HPMONT ERROR LIST-1",
+      "file": "HPMONT/HPMONT ERROR LIST-1.pdf",
+      "r2_key": "files/HPMONT/HPMONT ERROR LIST-1.pdf",
+      "url": "/files/HPMONT/HPMONT ERROR LIST-1.pdf",
+      "size": 638846,
+      "ext": "pdf",
+      "tags": [
+        "error",
+        "hpmont",
+        "list",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "28834cac80c7",
+      "brand": "HPMONT",
+      "type": "manual",
+      "title": "MONT71 Series Elevator Integrated Controller User Manual (V1.1)_20180503(1)",
+      "file": "HPMONT/MONT71 Series Elevator Integrated Controller User Manual (V1.1)_20180503(1).pdf",
+      "r2_key": "files/HPMONT/MONT71 Series Elevator Integrated Controller User Manual (V1.1)_20180503(1).pdf",
+      "url": "/files/HPMONT/MONT71 Series Elevator Integrated Controller User Manual (V1.1)_20180503(1).pdf",
+      "size": 6880541,
+      "ext": "pdf",
+      "tags": [
+        "20180503",
+        "controller",
+        "elevator",
+        "hpmont",
+        "integrated",
+        "manual",
+        "mont71",
+        "pdf",
+        "series",
+        "user"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "37b7e5ff93d8",
+      "brand": "HYUNDAI",
+      "type": "wiring",
+      "title": "5. WBVF Electrical Diagram Training (finished) 0227",
+      "file": "HYUNDAI/5. WBVF Electrical Diagram Training (finished) 0227.pdf",
+      "r2_key": "files/HYUNDAI/5. WBVF Electrical Diagram Training (finished) 0227.pdf",
+      "url": "/files/HYUNDAI/5. WBVF Electrical Diagram Training (finished) 0227.pdf",
+      "size": 5014284,
+      "ext": "pdf",
+      "tags": [
+        "0227",
+        "diagram",
+        "electrical",
+        "finished",
+        "hyundai",
+        "pdf",
+        "training",
+        "wbvf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "8ff92749fc15",
+      "brand": "HYUNDAI",
+      "type": "fault-code",
+      "title": "ERROR M 33",
+      "file": "HYUNDAI/ERROR M 33.PDF",
+      "r2_key": "files/HYUNDAI/ERROR M 33.PDF",
+      "url": "/files/HYUNDAI/ERROR M 33.PDF",
+      "size": 1062067,
+      "ext": "pdf",
+      "tags": [
+        "error",
+        "hyundai",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "e2e1abd95509",
+      "brand": "HYUNDAI",
+      "type": "wiring",
+      "title": "Stvf7 wiring",
+      "file": "HYUNDAI/Stvf7 wiring.pdf",
+      "r2_key": "files/HYUNDAI/Stvf7 wiring.pdf",
+      "url": "/files/HYUNDAI/Stvf7 wiring.pdf",
+      "size": 5032070,
+      "ext": "pdf",
+      "tags": [
+        "hyundai",
+        "pdf",
+        "stvf7",
+        "wiring"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "e1731e8c6368",
+      "brand": "HYUNDAI",
+      "type": "wiring",
+      "title": "Wiring STVF 5",
+      "file": "HYUNDAI/Wiring STVF 5.pdf",
+      "r2_key": "files/HYUNDAI/Wiring STVF 5.pdf",
+      "url": "/files/HYUNDAI/Wiring STVF 5.pdf",
+      "size": 2370191,
+      "ext": "pdf",
+      "tags": [
+        "hyundai",
+        "pdf",
+        "stvf",
+        "wiring"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "0ae2458e60fa",
+      "brand": "IFE",
+      "type": "manual",
+      "title": "manual book lift ningbo  hongda",
+      "file": "IFE/manual book lift ningbo  hongda.pdf",
+      "r2_key": "files/IFE/manual book lift ningbo  hongda.pdf",
+      "url": "/files/IFE/manual book lift ningbo  hongda.pdf",
+      "size": 1923880,
+      "ext": "pdf",
+      "tags": [
+        "book",
+        "hongda",
+        "ife",
+        "lift",
+        "manual",
+        "ningbo",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "3c2dfcb3b7d7",
+      "brand": "IFE",
+      "type": "manual",
+      "title": "pdfcoffee.com-ife-ctrl80",
+      "file": "IFE/pdfcoffee.com-ife-ctrl80.pdf",
+      "r2_key": "files/IFE/pdfcoffee.com-ife-ctrl80.pdf",
+      "url": "/files/IFE/pdfcoffee.com-ife-ctrl80.pdf",
+      "size": 1690645,
+      "ext": "pdf",
+      "tags": [
+        "com",
+        "ctrl80",
+        "ife",
+        "pdf",
+        "pdfcoffee"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "6d94c4599948",
+      "brand": "IFE",
+      "type": "manual",
+      "title": "S50-E6-Ae5",
+      "file": "IFE/S50-E6-Ae5.pdf",
+      "r2_key": "files/IFE/S50-E6-Ae5.pdf",
+      "url": "/files/IFE/S50-E6-Ae5.pdf",
+      "size": 1117089,
+      "ext": "pdf",
+      "tags": [
+        "ae5",
+        "ife",
+        "pdf",
+        "s50"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "3f3afa05a389",
+      "brand": "INVT",
+      "type": "wiring",
+      "title": "Diagram wiring Tamiang lift.pdf",
+      "file": "INVT/Diagram wiring Tamiang lift.pdf.pdf",
+      "r2_key": "files/INVT/Diagram wiring Tamiang lift.pdf.pdf",
+      "url": "/files/INVT/Diagram wiring Tamiang lift.pdf.pdf",
+      "size": 1218868,
+      "ext": "pdf",
+      "tags": [
+        "diagram",
+        "invt",
+        "lift",
+        "pdf",
+        "tamiang",
+        "wiring"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "5cfb53725e61",
+      "brand": "INVT",
+      "type": "manual",
+      "title": "EC 160Elevator Intelligent Integrated Machine_V1.2 (1)",
+      "file": "INVT/EC 160Elevator Intelligent Integrated Machine_V1.2 (1).pdf",
+      "r2_key": "files/INVT/EC 160Elevator Intelligent Integrated Machine_V1.2 (1).pdf",
+      "url": "/files/INVT/EC 160Elevator Intelligent Integrated Machine_V1.2 (1).pdf",
+      "size": 2426582,
+      "ext": "pdf",
+      "tags": [
+        "160elevator",
+        "integrated",
+        "intelligent",
+        "invt",
+        "machine",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "e2fe84119019",
+      "brand": "INVT",
+      "type": "manual",
+      "title": "EC100 Elevator Intelligent Integrated Machine_V2.5",
+      "file": "INVT/EC100 Elevator Intelligent Integrated Machine_V2.5.pdf",
+      "r2_key": "files/INVT/EC100 Elevator Intelligent Integrated Machine_V2.5.pdf",
+      "url": "/files/INVT/EC100 Elevator Intelligent Integrated Machine_V2.5.pdf",
+      "size": 2982027,
+      "ext": "pdf",
+      "tags": [
+        "ec100",
+        "elevator",
+        "integrated",
+        "intelligent",
+        "invt",
+        "machine",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "343dd31e10a0",
+      "brand": "KONE",
+      "type": "fault-code",
+      "title": "KDM diagnostic kode",
+      "file": "KONE/KDM diagnostic kode.pdf",
+      "r2_key": "files/KONE/KDM diagnostic kode.pdf",
+      "url": "/files/KONE/KDM diagnostic kode.pdf",
+      "size": 198984,
+      "ext": "pdf",
+      "tags": [
+        "diagnostic",
+        "kdm",
+        "kode",
+        "kone",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "e6b84d22185a",
+      "brand": "KONE",
+      "type": "fault-code",
+      "title": "LCE FAULT CODE NEW ",
+      "file": "KONE/LCE FAULT CODE NEW .pdf",
+      "r2_key": "files/KONE/LCE FAULT CODE NEW .pdf",
+      "url": "/files/KONE/LCE FAULT CODE NEW .pdf",
+      "size": 1849819,
+      "ext": "pdf",
+      "tags": [
+        "code",
+        "fault",
+        "kone",
+        "lce",
+        "new",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "8507506d481c",
+      "brand": "LOADCELL",
+      "type": "manual",
+      "title": "DTZZIII-DC1S Manual of Elevator Load Weighing Controller V3.1.1.1.0",
+      "file": "LOADCELL/DTZZIII-DC1S Manual of Elevator Load Weighing Controller V3.1.1.1.0.pdf",
+      "r2_key": "files/LOADCELL/DTZZIII-DC1S Manual of Elevator Load Weighing Controller V3.1.1.1.0.pdf",
+      "url": "/files/LOADCELL/DTZZIII-DC1S Manual of Elevator Load Weighing Controller V3.1.1.1.0.pdf",
+      "size": 179295,
+      "ext": "pdf",
+      "tags": [
+        "controller",
+        "dc1s",
+        "dtzziii",
+        "elevator",
+        "load",
+        "loadcell",
+        "manual",
+        "pdf",
+        "weighing"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "93dd36777a84",
+      "brand": "LOADCELL",
+      "type": "manual",
+      "title": "DTZZIII-DC1S Manual of Elevator Load Weighing Controller V3.1.1.1.0 (1)",
+      "file": "LOADCELL/DTZZIII-DC1S Manual of Elevator Load Weighing Controller V3.1.1.1.0 (1).pdf",
+      "r2_key": "files/LOADCELL/DTZZIII-DC1S Manual of Elevator Load Weighing Controller V3.1.1.1.0 (1).pdf",
+      "url": "/files/LOADCELL/DTZZIII-DC1S Manual of Elevator Load Weighing Controller V3.1.1.1.0 (1).pdf",
+      "size": 179295,
+      "ext": "pdf",
+      "tags": [
+        "controller",
+        "dc1s",
+        "dtzziii",
+        "elevator",
+        "load",
+        "loadcell",
+        "manual",
+        "pdf",
+        "weighing"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "d2bc81eb6bbb",
+      "brand": "LOADCELL",
+      "type": "parameter-debugging",
+      "title": "DTZZIII-DK100 series Elevator Weight-Load Indicating Controller Debugging Instructions V1.1.2.1.2",
+      "file": "LOADCELL/DTZZIII-DK100 series Elevator Weight-Load Indicating Controller Debugging Instructions V1.1.2.1.2.pdf",
+      "r2_key": "files/LOADCELL/DTZZIII-DK100 series Elevator Weight-Load Indicating Controller Debugging Instructions V1.1.2.1.2.pdf",
+      "url": "/files/LOADCELL/DTZZIII-DK100 series Elevator Weight-Load Indicating Controller Debugging Instructions V1.1.2.1.2.pdf",
+      "size": 308875,
+      "ext": "pdf",
+      "tags": [
+        "controller",
+        "debugging",
+        "dk100",
+        "dtzziii",
+        "elevator",
+        "indicating",
+        "instructions",
+        "load",
+        "loadcell",
+        "pdf",
+        "series",
+        "weight"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "1d29b359177a",
+      "brand": "LOADCELL",
+      "type": "manual",
+      "title": "DTZZIII-DK200 Series Elevator Load Weighing Controller v1.1.2.2.0",
+      "file": "LOADCELL/DTZZIII-DK200 Series Elevator Load Weighing Controller v1.1.2.2.0.pdf",
+      "r2_key": "files/LOADCELL/DTZZIII-DK200 Series Elevator Load Weighing Controller v1.1.2.2.0.pdf",
+      "url": "/files/LOADCELL/DTZZIII-DK200 Series Elevator Load Weighing Controller v1.1.2.2.0.pdf",
+      "size": 385741,
+      "ext": "pdf",
+      "tags": [
+        "controller",
+        "dk200",
+        "dtzziii",
+        "elevator",
+        "load",
+        "loadcell",
+        "pdf",
+        "series",
+        "weighing"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "d33f1a728731",
+      "brand": "LOUSERLIFT",
+      "type": "manual",
+      "title": "SICON 4000Zi DEMR100Z",
+      "file": "LOUSERLIFT/SICON 4000Zi DEMR100Z.pdf",
+      "r2_key": "files/LOUSERLIFT/SICON 4000Zi DEMR100Z.pdf",
+      "url": "/files/LOUSERLIFT/SICON 4000Zi DEMR100Z.pdf",
+      "size": 1191841,
+      "ext": "pdf",
+      "tags": [
+        "4000zi",
+        "demr100z",
+        "louserlift",
+        "pdf",
+        "sicon"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "77c53577b29d",
+      "brand": "LOUSERLIFT",
+      "type": "manual",
+      "title": "SICON 4000Zi KEMR",
+      "file": "LOUSERLIFT/SICON 4000Zi KEMR.pdf",
+      "r2_key": "files/LOUSERLIFT/SICON 4000Zi KEMR.pdf",
+      "url": "/files/LOUSERLIFT/SICON 4000Zi KEMR.pdf",
+      "size": 993988,
+      "ext": "pdf",
+      "tags": [
+        "4000zi",
+        "kemr",
+        "louserlift",
+        "pdf",
+        "sicon"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "2c79b8eaab29",
+      "brand": "LOUSERLIFT",
+      "type": "manual",
+      "title": "Sicon-2001Ci",
+      "file": "LOUSERLIFT/Sicon-2001Ci.pdf",
+      "r2_key": "files/LOUSERLIFT/Sicon-2001Ci.pdf",
+      "url": "/files/LOUSERLIFT/Sicon-2001Ci.pdf",
+      "size": 2185247,
+      "ext": "pdf",
+      "tags": [
+        "2001ci",
+        "louserlift",
+        "pdf",
+        "sicon"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "2b414cb08552",
+      "brand": "LOUSERLIFT",
+      "type": "manual",
+      "title": "SICON-2001Ci MANUAL",
+      "file": "LOUSERLIFT/SICON-2001Ci MANUAL.pdf",
+      "r2_key": "files/LOUSERLIFT/SICON-2001Ci MANUAL.pdf",
+      "url": "/files/LOUSERLIFT/SICON-2001Ci MANUAL.pdf",
+      "size": 5879693,
+      "ext": "pdf",
+      "tags": [
+        "2001ci",
+        "louserlift",
+        "manual",
+        "pdf",
+        "sicon"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "02561cb7b41b",
+      "brand": "MICO M3",
+      "type": "manual",
+      "title": "DOC-20211123-WA0010.",
+      "file": "MICO M3/DOC-20211123-WA0010..pdf",
+      "r2_key": "files/MICO M3/DOC-20211123-WA0010..pdf",
+      "url": "/files/MICO M3/DOC-20211123-WA0010..pdf",
+      "size": 1034995,
+      "ext": "pdf",
+      "tags": [
+        "20211123",
+        "doc",
+        "mico",
+        "pdf",
+        "wa0010"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "f5026598ae62",
+      "brand": "MICO M3",
+      "type": "manual",
+      "title": "M3P",
+      "file": "MICO M3/M3P.pdf",
+      "r2_key": "files/MICO M3/M3P.pdf",
+      "url": "/files/MICO M3/M3P.pdf",
+      "size": 345397,
+      "ext": "pdf",
+      "tags": [
+        "m3p",
+        "mico",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "b19f447b6e01",
+      "brand": "MICO M3",
+      "type": "wiring",
+      "title": "m3p1 wiring",
+      "file": "MICO M3/m3p1 wiring.pdf",
+      "r2_key": "files/MICO M3/m3p1 wiring.pdf",
+      "url": "/files/MICO M3/m3p1 wiring.pdf",
+      "size": 5404519,
+      "ext": "pdf",
+      "tags": [
+        "m3p1",
+        "mico",
+        "pdf",
+        "wiring"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "3c5c6b7e7937",
+      "brand": "MITSUBISHI",
+      "type": "fault-code",
+      "title": "Elenessa vfgl errors",
+      "file": "MITSUBISHI/Elenessa vfgl errors.PDF",
+      "r2_key": "files/MITSUBISHI/Elenessa vfgl errors.PDF",
+      "url": "/files/MITSUBISHI/Elenessa vfgl errors.PDF",
+      "size": 3741712,
+      "ext": "pdf",
+      "tags": [
+        "elenessa",
+        "errors",
+        "mitsubishi",
+        "pdf",
+        "vfgl"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "90d2ab9ad6c8",
+      "brand": "MITSUBISHI",
+      "type": "manual",
+      "title": "SHG MITSUBISHI_LEHY-II C-1 -  EN",
+      "file": "MITSUBISHI/SHG MITSUBISHI_LEHY-II C-1 -  EN.pdf",
+      "r2_key": "files/MITSUBISHI/SHG MITSUBISHI_LEHY-II C-1 -  EN.pdf",
+      "url": "/files/MITSUBISHI/SHG MITSUBISHI_LEHY-II C-1 -  EN.pdf",
+      "size": 322004,
+      "ext": "pdf",
+      "tags": [
+        "lehy",
+        "mitsubishi",
+        "pdf",
+        "shg"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "2934ef003433",
+      "brand": "MITSUBISHI",
+      "type": "manual",
+      "title": "VFGLC SCHEMATICS",
+      "file": "MITSUBISHI/VFGLC SCHEMATICS.pdf",
+      "r2_key": "files/MITSUBISHI/VFGLC SCHEMATICS.pdf",
+      "url": "/files/MITSUBISHI/VFGLC SCHEMATICS.pdf",
+      "size": 53197746,
+      "ext": "pdf",
+      "tags": [
+        "mitsubishi",
+        "pdf",
+        "schematics",
+        "vfglc"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "9d1d7315f02b",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "ANS860-B NEW",
+      "file": "MONARCH/ANS860-B NEW.pdf",
+      "r2_key": "files/MONARCH/ANS860-B NEW.pdf",
+      "url": "/files/MONARCH/ANS860-B NEW.pdf",
+      "size": 5314577,
+      "ext": "pdf",
+      "tags": [
+        "ans860",
+        "monarch",
+        "new",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "f65225c69a38",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "CTB OVS",
+      "file": "MONARCH/CTB OVS.pdf",
+      "r2_key": "files/MONARCH/CTB OVS.pdf",
+      "url": "/files/MONARCH/CTB OVS.pdf",
+      "size": 771797,
+      "ext": "pdf",
+      "tags": [
+        "ctb",
+        "monarch",
+        "ovs",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "a8c4176d3ead",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "MCTC-HCB-B6∩╝êB6S∩╝ëµùáµÿ╛τñ║ΘÇÜΦ«»µ¥┐τö¿µê╖µëïσåî-CN-A00 (1).zh-CN.en",
+      "file": "MONARCH/MCTC-HCB-B6∩╝êB6S∩╝ëµùáµÿ╛τñ║ΘÇÜΦ«»µ¥┐τö¿µê╖µëïσåî-CN-A00 (1).zh-CN.en.pdf",
+      "r2_key": "files/MONARCH/MCTC-HCB-B6%E2%88%A9%E2%95%9D%C3%AAB6S%E2%88%A9%E2%95%9D%C3%AB%C2%B5%C3%B9%C3%A1%C2%B5%C3%BF%E2%95%9B%CF%84%C3%B1%E2%95%91%CE%98%C3%87%C3%9C%CE%A6%C2%AB%C2%BB%C2%B5%C2%A5%E2%94%90%CF%84%C3%B6%C2%BF%C2%B5%C3%AA%E2%95%96%C2%B5%C3%AB%C3%AF%CF%83%C3%A5%C3%AE-CN-A00 (1).zh-CN.en.pdf",
+      "url": "/files/MONARCH/MCTC-HCB-B6%E2%88%A9%E2%95%9D%C3%AAB6S%E2%88%A9%E2%95%9D%C3%AB%C2%B5%C3%B9%C3%A1%C2%B5%C3%BF%E2%95%9B%CF%84%C3%B1%E2%95%91%CE%98%C3%87%C3%9C%CE%A6%C2%AB%C2%BB%C2%B5%C2%A5%E2%94%90%CF%84%C3%B6%C2%BF%C2%B5%C3%AA%E2%95%96%C2%B5%C3%AB%C3%AF%CF%83%C3%A5%C3%AE-CN-A00 (1).zh-CN.en.pdf",
+      "size": 14788536,
+      "ext": "pdf",
+      "tags": [
+        "a00",
+        "b6s",
+        "hcb",
+        "mctc",
+        "monarch",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "3548a06a27eb",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "MCTC-HCB-B6（B6S）无显示通讯板用户手册-CN-A00 (1).zh-CN.en",
+      "file": "MONARCH/MCTC-HCB-B6（B6S）无显示通讯板用户手册-CN-A00 (1).zh-CN.en.pdf",
+      "r2_key": "files/MONARCH/MCTC-HCB-B6%EF%BC%88B6S%EF%BC%89%E6%97%A0%E6%98%BE%E7%A4%BA%E9%80%9A%E8%AE%AF%E6%9D%BF%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C-CN-A00 (1).zh-CN.en.pdf",
+      "url": "/files/MONARCH/MCTC-HCB-B6%EF%BC%88B6S%EF%BC%89%E6%97%A0%E6%98%BE%E7%A4%BA%E9%80%9A%E8%AE%AF%E6%9D%BF%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C-CN-A00 (1).zh-CN.en.pdf",
+      "size": 14788536,
+      "ext": "pdf",
+      "tags": [
+        "a00",
+        "b6s",
+        "hcb",
+        "mctc",
+        "monarch",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "c91d132679c2",
+      "brand": "MONARCH",
+      "type": "fault-code",
+      "title": "Monarch nice 3000 error 65 y 66-1-1",
+      "file": "MONARCH/Monarch nice 3000 error 65 y 66-1-1.pdf",
+      "r2_key": "files/MONARCH/Monarch nice 3000 error 65 y 66-1-1.pdf",
+      "url": "/files/MONARCH/Monarch nice 3000 error 65 y 66-1-1.pdf",
+      "size": 518295,
+      "ext": "pdf",
+      "tags": [
+        "3000",
+        "error",
+        "monarch",
+        "nice",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "49bca561d307",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "Monarch-solution-for-KONE-EcoDisc-machine-for-retorfit-project-V0.0",
+      "file": "MONARCH/Monarch-solution-for-KONE-EcoDisc-machine-for-retorfit-project-V0.0.pdf",
+      "r2_key": "files/MONARCH/Monarch-solution-for-KONE-EcoDisc-machine-for-retorfit-project-V0.0.pdf",
+      "url": "/files/MONARCH/Monarch-solution-for-KONE-EcoDisc-machine-for-retorfit-project-V0.0.pdf",
+      "size": 955426,
+      "ext": "pdf",
+      "tags": [
+        "ecodisc",
+        "for",
+        "kone",
+        "machine",
+        "monarch",
+        "pdf",
+        "project",
+        "retorfit",
+        "solution"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "c46b2b2c0e7c",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "nice1000 (1)",
+      "file": "MONARCH/nice1000 (1).pdf",
+      "r2_key": "files/MONARCH/nice1000 (1).pdf",
+      "url": "/files/MONARCH/nice1000 (1).pdf",
+      "size": 4047666,
+      "ext": "pdf",
+      "tags": [
+        "monarch",
+        "nice1000",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "e2231fe84c50",
+      "brand": "MONARCH",
+      "type": "wiring",
+      "title": "NICE3000 Electrical Diagram V3.011  20190916",
+      "file": "MONARCH/NICE3000 Electrical Diagram V3.011  20190916.pdf",
+      "r2_key": "files/MONARCH/NICE3000 Electrical Diagram V3.011  20190916.pdf",
+      "url": "/files/MONARCH/NICE3000 Electrical Diagram V3.011  20190916.pdf",
+      "size": 2475301,
+      "ext": "pdf",
+      "tags": [
+        "011",
+        "20190916",
+        "diagram",
+        "electrical",
+        "monarch",
+        "nice3000",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "ed7fdddc1fd3",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "nice7000",
+      "file": "MONARCH/nice7000.pdf",
+      "r2_key": "files/MONARCH/nice7000.pdf",
+      "url": "/files/MONARCH/nice7000.pdf",
+      "size": 3747121,
+      "ext": "pdf",
+      "tags": [
+        "monarch",
+        "nice7000",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "061114a9f3fd",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "NICE9000V Integrated Control Panel - A00",
+      "file": "MONARCH/NICE9000V Integrated Control Panel - A00.pdf",
+      "r2_key": "files/MONARCH/NICE9000V Integrated Control Panel - A00.pdf",
+      "url": "/files/MONARCH/NICE9000V Integrated Control Panel - A00.pdf",
+      "size": 9959184,
+      "ext": "pdf",
+      "tags": [
+        "a00",
+        "control",
+        "integrated",
+        "monarch",
+        "nice9000v",
+        "panel",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "fe826cd9fa8b",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "SLEC7000-A1 (N)",
+      "file": "MONARCH/SLEC7000-A1 (N).pdf",
+      "r2_key": "files/MONARCH/SLEC7000-A1 (N).pdf",
+      "url": "/files/MONARCH/SLEC7000-A1 (N).pdf",
+      "size": 6448093,
+      "ext": "pdf",
+      "tags": [
+        "monarch",
+        "pdf",
+        "slec7000"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "ff4f8fbbb57d",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "toaz.info-monarch-nice-seriespdf-pr_a01cd0112c2dc04625086f5c6440768e",
+      "file": "MONARCH/toaz.info-monarch-nice-seriespdf-pr_a01cd0112c2dc04625086f5c6440768e.pdf",
+      "r2_key": "files/MONARCH/toaz.info-monarch-nice-seriespdf-pr_a01cd0112c2dc04625086f5c6440768e.pdf",
+      "url": "/files/MONARCH/toaz.info-monarch-nice-seriespdf-pr_a01cd0112c2dc04625086f5c6440768e.pdf",
+      "size": 4102421,
+      "ext": "pdf",
+      "tags": [
+        "a01cd0112c2dc04625086f5c6440768e",
+        "info",
+        "monarch",
+        "nice",
+        "pdf",
+        "seriespdf",
+        "toaz"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "d7a04cce9421",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "πÇèNICE3000Bτ│╗σêùτö╡µó»Σ╕ÇΣ╜ôσîûµÄºσê╢µƒ£τö¿µê╖µëïσåîπÇï-Φï▒µûç20181130-A01-19010775",
+      "file": "MONARCH/πÇèNICE3000Bτ│╗σêùτö╡µó»Σ╕ÇΣ╜ôσîûµÄºσê╢µƒ£τö¿µê╖µëïσåîπÇï-Φï▒µûç20181130-A01-19010775.pdf",
+      "r2_key": "files/MONARCH/%CF%80%C3%87%C3%A8NICE3000B%CF%84%E2%94%82%E2%95%97%CF%83%C3%AA%C3%B9%CF%84%C3%B6%E2%95%A1%C2%B5%C3%B3%C2%BB%CE%A3%E2%95%95%C3%87%CE%A3%E2%95%9C%C3%B4%CF%83%C3%AE%C3%BB%C2%B5%C3%84%C2%BA%CF%83%C3%AA%E2%95%A2%C2%B5%C6%92%C2%A3%CF%84%C3%B6%C2%BF%C2%B5%C3%AA%E2%95%96%C2%B5%C3%AB%C3%AF%CF%83%C3%A5%C3%AE%CF%80%C3%87%C3%AF-%CE%A6%C3%AF%E2%96%92%C2%B5%C3%BB%C3%A720181130-A01-19010775.pdf",
+      "url": "/files/MONARCH/%CF%80%C3%87%C3%A8NICE3000B%CF%84%E2%94%82%E2%95%97%CF%83%C3%AA%C3%B9%CF%84%C3%B6%E2%95%A1%C2%B5%C3%B3%C2%BB%CE%A3%E2%95%95%C3%87%CE%A3%E2%95%9C%C3%B4%CF%83%C3%AE%C3%BB%C2%B5%C3%84%C2%BA%CF%83%C3%AA%E2%95%A2%C2%B5%C6%92%C2%A3%CF%84%C3%B6%C2%BF%C2%B5%C3%AA%E2%95%96%C2%B5%C3%AB%C3%AF%CF%83%C3%A5%C3%AE%CF%80%C3%87%C3%AF-%CE%A6%C3%AF%E2%96%92%C2%B5%C3%BB%C3%A720181130-A01-19010775.pdf",
+      "size": 7315383,
+      "ext": "pdf",
+      "tags": [
+        "19010775",
+        "20181130",
+        "a01",
+        "monarch",
+        "nice3000b",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "00403ff0ec5e",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "πÇèNICE3000newτö╡µó»Σ╕ÇΣ╜ôσîûµÄºσê╢σÖ¿σ┐½ΘÇƒΦ░âΦ»òµëïσåîπÇï-Φï▒µûç20181130-A01-19010659",
+      "file": "MONARCH/πÇèNICE3000newτö╡µó»Σ╕ÇΣ╜ôσîûµÄºσê╢σÖ¿σ┐½ΘÇƒΦ░âΦ»òµëïσåîπÇï-Φï▒µûç20181130-A01-19010659.pdf",
+      "r2_key": "files/MONARCH/%CF%80%C3%87%C3%A8NICE3000new%CF%84%C3%B6%E2%95%A1%C2%B5%C3%B3%C2%BB%CE%A3%E2%95%95%C3%87%CE%A3%E2%95%9C%C3%B4%CF%83%C3%AE%C3%BB%C2%B5%C3%84%C2%BA%CF%83%C3%AA%E2%95%A2%CF%83%C3%96%C2%BF%CF%83%E2%94%90%C2%BD%CE%98%C3%87%C6%92%CE%A6%E2%96%91%C3%A2%CE%A6%C2%BB%C3%B2%C2%B5%C3%AB%C3%AF%CF%83%C3%A5%C3%AE%CF%80%C3%87%C3%AF-%CE%A6%C3%AF%E2%96%92%C2%B5%C3%BB%C3%A720181130-A01-19010659.pdf",
+      "url": "/files/MONARCH/%CF%80%C3%87%C3%A8NICE3000new%CF%84%C3%B6%E2%95%A1%C2%B5%C3%B3%C2%BB%CE%A3%E2%95%95%C3%87%CE%A3%E2%95%9C%C3%B4%CF%83%C3%AE%C3%BB%C2%B5%C3%84%C2%BA%CF%83%C3%AA%E2%95%A2%CF%83%C3%96%C2%BF%CF%83%E2%94%90%C2%BD%CE%98%C3%87%C6%92%CE%A6%E2%96%91%C3%A2%CE%A6%C2%BB%C3%B2%C2%B5%C3%AB%C3%AF%CF%83%C3%A5%C3%AE%CF%80%C3%87%C3%AF-%CE%A6%C3%AF%E2%96%92%C2%B5%C3%BB%C3%A720181130-A01-19010659.pdf",
+      "size": 4236002,
+      "ext": "pdf",
+      "tags": [
+        "19010659",
+        "20181130",
+        "a01",
+        "monarch",
+        "nice3000new",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "ea54d16aa7c3",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "τö│Θ╛ÖSLEC7000Φ»┤µÿÄΣ╣ª-Instruction",
+      "file": "MONARCH/τö│Θ╛ÖSLEC7000Φ»┤µÿÄΣ╣ª-Instruction.pdf",
+      "r2_key": "files/MONARCH/%CF%84%C3%B6%E2%94%82%CE%98%E2%95%9B%C3%96SLEC7000%CE%A6%C2%BB%E2%94%A4%C2%B5%C3%BF%C3%84%CE%A3%E2%95%A3%C2%AA-Instruction.pdf",
+      "url": "/files/MONARCH/%CF%84%C3%B6%E2%94%82%CE%98%E2%95%9B%C3%96SLEC7000%CE%A6%C2%BB%E2%94%A4%C2%B5%C3%BF%C3%84%CE%A3%E2%95%A3%C2%AA-Instruction.pdf",
+      "size": 2346275,
+      "ext": "pdf",
+      "tags": [
+        "instruction",
+        "monarch",
+        "pdf",
+        "slec7000"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "9e5767670b71",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "《NICE3000B系列电梯一体化控制柜用户手册》-英文20181130-A01-19010775",
+      "file": "MONARCH/《NICE3000B系列电梯一体化控制柜用户手册》-英文20181130-A01-19010775.pdf",
+      "r2_key": "files/MONARCH/%E3%80%8ANICE3000B%E7%B3%BB%E5%88%97%E7%94%B5%E6%A2%AF%E4%B8%80%E4%BD%93%E5%8C%96%E6%8E%A7%E5%88%B6%E6%9F%9C%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C%E3%80%8B-%E8%8B%B1%E6%96%8720181130-A01-19010775.pdf",
+      "url": "/files/MONARCH/%E3%80%8ANICE3000B%E7%B3%BB%E5%88%97%E7%94%B5%E6%A2%AF%E4%B8%80%E4%BD%93%E5%8C%96%E6%8E%A7%E5%88%B6%E6%9F%9C%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C%E3%80%8B-%E8%8B%B1%E6%96%8720181130-A01-19010775.pdf",
+      "size": 7315383,
+      "ext": "pdf",
+      "tags": [
+        "19010775",
+        "20181130",
+        "a01",
+        "monarch",
+        "nice3000b",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "d1b5ea1b685d",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "《NICE3000new电梯一体化控制器快速调试手册》-英文20181130-A01-19010659",
+      "file": "MONARCH/《NICE3000new电梯一体化控制器快速调试手册》-英文20181130-A01-19010659.pdf",
+      "r2_key": "files/MONARCH/%E3%80%8ANICE3000new%E7%94%B5%E6%A2%AF%E4%B8%80%E4%BD%93%E5%8C%96%E6%8E%A7%E5%88%B6%E5%99%A8%E5%BF%AB%E9%80%9F%E8%B0%83%E8%AF%95%E6%89%8B%E5%86%8C%E3%80%8B-%E8%8B%B1%E6%96%8720181130-A01-19010659.pdf",
+      "url": "/files/MONARCH/%E3%80%8ANICE3000new%E7%94%B5%E6%A2%AF%E4%B8%80%E4%BD%93%E5%8C%96%E6%8E%A7%E5%88%B6%E5%99%A8%E5%BF%AB%E9%80%9F%E8%B0%83%E8%AF%95%E6%89%8B%E5%86%8C%E3%80%8B-%E8%8B%B1%E6%96%8720181130-A01-19010659.pdf",
+      "size": 4236002,
+      "ext": "pdf",
+      "tags": [
+        "19010659",
+        "20181130",
+        "a01",
+        "monarch",
+        "nice3000new",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "6ce775279fb0",
+      "brand": "MONARCH",
+      "type": "manual",
+      "title": "申龙SLEC7000说明书-Instruction",
+      "file": "MONARCH/申龙SLEC7000说明书-Instruction.pdf",
+      "r2_key": "files/MONARCH/%E7%94%B3%E9%BE%99SLEC7000%E8%AF%B4%E6%98%8E%E4%B9%A6-Instruction.pdf",
+      "url": "/files/MONARCH/%E7%94%B3%E9%BE%99SLEC7000%E8%AF%B4%E6%98%8E%E4%B9%A6-Instruction.pdf",
+      "size": 2346275,
+      "ext": "pdf",
+      "tags": [
+        "instruction",
+        "monarch",
+        "pdf",
+        "slec7000"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "823ad996d21e",
+      "brand": "NIDEC",
+      "type": "manual",
+      "title": "frequentieregelaars-unidrive-sp-advanced-user-guide-en-iss11-0471-0002-11",
+      "file": "NIDEC/frequentieregelaars-unidrive-sp-advanced-user-guide-en-iss11-0471-0002-11.pdf",
+      "r2_key": "files/NIDEC/frequentieregelaars-unidrive-sp-advanced-user-guide-en-iss11-0471-0002-11.pdf",
+      "url": "/files/NIDEC/frequentieregelaars-unidrive-sp-advanced-user-guide-en-iss11-0471-0002-11.pdf",
+      "size": 10564610,
+      "ext": "pdf",
+      "tags": [
+        "0002",
+        "0471",
+        "advanced",
+        "frequentieregelaars",
+        "guide",
+        "iss11",
+        "nidec",
+        "pdf",
+        "unidrive",
+        "user"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "dc577a4e1f9e",
+      "brand": "NIDEC",
+      "type": "manual",
+      "title": "kinetek-controlador-fusion-k-mc1000-ingles_compress",
+      "file": "NIDEC/kinetek-controlador-fusion-k-mc1000-ingles_compress.pdf",
+      "r2_key": "files/NIDEC/kinetek-controlador-fusion-k-mc1000-ingles_compress.pdf",
+      "url": "/files/NIDEC/kinetek-controlador-fusion-k-mc1000-ingles_compress.pdf",
+      "size": 8051855,
+      "ext": "pdf",
+      "tags": [
+        "compress",
+        "controlador",
+        "fusion",
+        "ingles",
+        "kinetek",
+        "mc1000",
+        "nidec",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "8c6e5114f15f",
+      "brand": "OTIS",
+      "type": "manual",
+      "title": "1.20.91800_Umbauanleitung TSG in Otis DO2000_V1.5",
+      "file": "OTIS/1.20.91800_Umbauanleitung TSG in Otis DO2000_V1.5.pdf",
+      "r2_key": "files/OTIS/1.20.91800_Umbauanleitung TSG in Otis DO2000_V1.5.pdf",
+      "url": "/files/OTIS/1.20.91800_Umbauanleitung TSG in Otis DO2000_V1.5.pdf",
+      "size": 600550,
+      "ext": "pdf",
+      "tags": [
+        "91800",
+        "do2000",
+        "otis",
+        "pdf",
+        "tsg",
+        "umbauanleitung"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "7d8dbb3acf05",
+      "brand": "OTIS",
+      "type": "manual",
+      "title": "ACD2-MRL XAA21310AL",
+      "file": "OTIS/ACD2-MRL XAA21310AL.pdf",
+      "r2_key": "files/OTIS/ACD2-MRL XAA21310AL.pdf",
+      "url": "/files/OTIS/ACD2-MRL XAA21310AL.pdf",
+      "size": 12176838,
+      "ext": "pdf",
+      "tags": [
+        "acd2",
+        "mrl",
+        "otis",
+        "pdf",
+        "xaa21310al"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "2805b2caeb47",
+      "brand": "OTIS",
+      "type": "manual",
+      "title": "AMCB2 english",
+      "file": "OTIS/AMCB2 english.pdf",
+      "r2_key": "files/OTIS/AMCB2 english.pdf",
+      "url": "/files/OTIS/AMCB2 english.pdf",
+      "size": 851772,
+      "ext": "pdf",
+      "tags": [
+        "amcb2",
+        "english",
+        "otis",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "f611d9412c01",
+      "brand": "OTIS",
+      "type": "manual",
+      "title": "I-O List LCB II",
+      "file": "OTIS/I-O List LCB II.pdf",
+      "r2_key": "files/OTIS/I-O List LCB II.pdf",
+      "url": "/files/OTIS/I-O List LCB II.pdf",
+      "size": 1250290,
+      "ext": "pdf",
+      "tags": [
+        "lcb",
+        "list",
+        "otis",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "e0929992009e",
+      "brand": "OTIS",
+      "type": "manual",
+      "title": "otis LCBII",
+      "file": "OTIS/otis LCBII.pdf",
+      "r2_key": "files/OTIS/otis LCBII.pdf",
+      "url": "/files/OTIS/otis LCBII.pdf",
+      "size": 416045,
+      "ext": "pdf",
+      "tags": [
+        "lcbii",
+        "otis",
+        "pdf"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "b4827e3e4af5",
+      "brand": "OTIS",
+      "type": "manual",
+      "title": "Otis xizi amcb2 parametr",
+      "file": "OTIS/Otis xizi amcb2 parametr.pdf",
+      "r2_key": "files/OTIS/Otis xizi amcb2 parametr.pdf",
+      "url": "/files/OTIS/Otis xizi amcb2 parametr.pdf",
+      "size": 58902,
+      "ext": "pdf",
+      "tags": [
+        "amcb2",
+        "otis",
+        "parametr",
+        "pdf",
+        "xizi"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "cbb86898660f",
+      "brand": "OTIS",
+      "type": "manual",
+      "title": "Otis-Gen-2-Regen_111718",
+      "file": "OTIS/Otis-Gen-2-Regen_111718.pdf",
+      "r2_key": "files/OTIS/Otis-Gen-2-Regen_111718.pdf",
+      "url": "/files/OTIS/Otis-Gen-2-Regen_111718.pdf",
+      "size": 978488,
+      "ext": "pdf",
+      "tags": [
+        "111718",
+        "gen",
+        "otis",
+        "pdf",
+        "regen"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "4ee08132c5b8",
+      "brand": "SCHINDLER",
+      "type": "wiring",
+      "title": "Diagram wiring 3300 BIONIC 5",
+      "file": "SCHINDLER/Diagram wiring 3300 BIONIC 5.pdf",
+      "r2_key": "files/SCHINDLER/Diagram wiring 3300 BIONIC 5.pdf",
+      "url": "/files/SCHINDLER/Diagram wiring 3300 BIONIC 5.pdf",
+      "size": 5188998,
+      "ext": "pdf",
+      "tags": [
+        "3300",
+        "bionic",
+        "diagram",
+        "pdf",
+        "schindler",
+        "wiring"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "16d62107773e",
+      "brand": "SCHINDLER",
+      "type": "manual",
+      "title": "Manual 3100-3300 Schindler.pdf · versión 1",
+      "file": "SCHINDLER/Manual 3100-3300 Schindler.pdf · versión 1.pdf",
+      "r2_key": "files/SCHINDLER/Manual 3100-3300 Schindler.pdf %C2%B7 versi%C3%B3n 1.pdf",
+      "url": "/files/SCHINDLER/Manual 3100-3300 Schindler.pdf %C2%B7 versi%C3%B3n 1.pdf",
+      "size": 3133325,
+      "ext": "pdf",
+      "tags": [
+        "3100",
+        "3300",
+        "manual",
+        "pdf",
+        "schindler",
+        "versi"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "c8c76a931769",
+      "brand": "SCHINDLER",
+      "type": "manual",
+      "title": "Manual 3100-3300 Schindler.pdf ┬╖ versi├│n 1",
+      "file": "SCHINDLER/Manual 3100-3300 Schindler.pdf ┬╖ versi├│n 1.pdf",
+      "r2_key": "files/SCHINDLER/Manual 3100-3300 Schindler.pdf %E2%94%AC%E2%95%96 versi%E2%94%9C%E2%94%82n 1.pdf",
+      "url": "/files/SCHINDLER/Manual 3100-3300 Schindler.pdf %E2%94%AC%E2%95%96 versi%E2%94%9C%E2%94%82n 1.pdf",
+      "size": 3133325,
+      "ext": "pdf",
+      "tags": [
+        "3100",
+        "3300",
+        "manual",
+        "pdf",
+        "schindler",
+        "versi"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "2eeaad6696ec",
+      "brand": "SCHINDLER",
+      "type": "manual",
+      "title": "Schindler 3100 3300 3600 5300 6300 manual ingles",
+      "file": "SCHINDLER/Schindler 3100 3300 3600 5300 6300 manual ingles.pdf",
+      "r2_key": "files/SCHINDLER/Schindler 3100 3300 3600 5300 6300 manual ingles.pdf",
+      "url": "/files/SCHINDLER/Schindler 3100 3300 3600 5300 6300 manual ingles.pdf",
+      "size": 3501359,
+      "ext": "pdf",
+      "tags": [
+        "3100",
+        "3300",
+        "3600",
+        "5300",
+        "6300",
+        "ingles",
+        "manual",
+        "pdf",
+        "schindler"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "626ae724ac4f",
+      "brand": "SCHINDLER",
+      "type": "manual",
+      "title": "Schindler 3300",
+      "file": "SCHINDLER/Schindler 3300.pdf",
+      "r2_key": "files/SCHINDLER/Schindler 3300.pdf",
+      "url": "/files/SCHINDLER/Schindler 3300.pdf",
+      "size": 2423575,
+      "ext": "pdf",
+      "tags": [
+        "3300",
+        "pdf",
+        "schindler"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "82771180610e",
+      "brand": "SCHINDLER",
+      "type": "manual",
+      "title": "Schindler 6200 miconic vacon Configuration",
+      "file": "SCHINDLER/Schindler 6200 miconic vacon Configuration.pdf",
+      "r2_key": "files/SCHINDLER/Schindler 6200 miconic vacon Configuration.pdf",
+      "url": "/files/SCHINDLER/Schindler 6200 miconic vacon Configuration.pdf",
+      "size": 1193579,
+      "ext": "pdf",
+      "tags": [
+        "6200",
+        "configuration",
+        "miconic",
+        "pdf",
+        "schindler",
+        "vacon"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "9dcd1a907840",
+      "brand": "SCHINDLER",
+      "type": "manual",
+      "title": "Schindler 9700 Operation & Maintenance Manual 2012",
+      "file": "SCHINDLER/Schindler 9700 Operation & Maintenance Manual 2012.pdf",
+      "r2_key": "files/SCHINDLER/Schindler 9700 Operation %26 Maintenance Manual 2012.pdf",
+      "url": "/files/SCHINDLER/Schindler 9700 Operation %26 Maintenance Manual 2012.pdf",
+      "size": 17878511,
+      "ext": "pdf",
+      "tags": [
+        "2012",
+        "9700",
+        "maintenance",
+        "manual",
+        "operation",
+        "pdf",
+        "schindler"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "64ae39f684ce",
+      "brand": "SCHINDLER",
+      "type": "fault-code",
+      "title": "Schindler Code Fault",
+      "file": "SCHINDLER/Schindler Code Fault.pdf",
+      "r2_key": "files/SCHINDLER/Schindler Code Fault.pdf",
+      "url": "/files/SCHINDLER/Schindler Code Fault.pdf",
+      "size": 47880823,
+      "ext": "pdf",
+      "tags": [
+        "code",
+        "fault",
+        "pdf",
+        "schindler"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "2d4eb9a4a59d",
+      "brand": "SICON",
+      "type": "manual",
+      "title": "1.SICON-3000SCi English manual(for malaysia)",
+      "file": "SICON/1.SICON-3000SCi English manual(for malaysia).pdf",
+      "r2_key": "files/SICON/1.SICON-3000SCi English manual(for malaysia).pdf",
+      "url": "/files/SICON/1.SICON-3000SCi English manual(for malaysia).pdf",
+      "size": 1509183,
+      "ext": "pdf",
+      "tags": [
+        "3000sci",
+        "english",
+        "for",
+        "malaysia",
+        "manual",
+        "pdf",
+        "sicon"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "6ce5216f810b",
+      "brand": "SICON",
+      "type": "manual",
+      "title": "SICON 3000",
+      "file": "SICON/SICON 3000.pdf",
+      "r2_key": "files/SICON/SICON 3000.pdf",
+      "url": "/files/SICON/SICON 3000.pdf",
+      "size": 984966,
+      "ext": "pdf",
+      "tags": [
+        "3000",
+        "pdf",
+        "sicon"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "aa5d46c2fdc0",
+      "brand": "SICON",
+      "type": "manual",
+      "title": "SICON-2001Ci MANUAL",
+      "file": "SICON/SICON-2001Ci MANUAL.pdf",
+      "r2_key": "files/SICON/SICON-2001Ci MANUAL.pdf",
+      "url": "/files/SICON/SICON-2001Ci MANUAL.pdf",
+      "size": 5879693,
+      "ext": "pdf",
+      "tags": [
+        "2001ci",
+        "manual",
+        "pdf",
+        "sicon"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "52cb050ddc76",
+      "brand": "SICON",
+      "type": "manual",
+      "title": "SICON-3000CC",
+      "file": "SICON/SICON-3000CC.pdf",
+      "r2_key": "files/SICON/SICON-3000CC.pdf",
+      "url": "/files/SICON/SICON-3000CC.pdf",
+      "size": 2652252,
+      "ext": "pdf",
+      "tags": [
+        "3000cc",
+        "pdf",
+        "sicon"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "12768eee24d0",
+      "brand": "SIEMENS",
+      "type": "manual",
+      "title": "pdf-sm5000-v2-manual_compress (1)",
+      "file": "SIEMENS/pdf-sm5000-v2-manual_compress (1).pdf",
+      "r2_key": "files/SIEMENS/pdf-sm5000-v2-manual_compress (1).pdf",
+      "url": "/files/SIEMENS/pdf-sm5000-v2-manual_compress (1).pdf",
+      "size": 2236073,
+      "ext": "pdf",
+      "tags": [
+        "compress",
+        "manual",
+        "pdf",
+        "siemens",
+        "sm5000"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "21ebba8a3c8b",
+      "brand": "SIGMA",
+      "type": "wiring",
+      "title": "ACRA wiring diagram_XAA21310BS-1",
+      "file": "SIGMA/ACRA wiring diagram_XAA21310BS-1.pdf",
+      "r2_key": "files/SIGMA/ACRA wiring diagram_XAA21310BS-1.pdf",
+      "url": "/files/SIGMA/ACRA wiring diagram_XAA21310BS-1.pdf",
+      "size": 5552408,
+      "ext": "pdf",
+      "tags": [
+        "acra",
+        "diagram",
+        "pdf",
+        "sigma",
+        "wiring",
+        "xaa21310bs"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "8feb11cfaa96",
+      "brand": "SIGMA",
+      "type": "manual",
+      "title": "Manual_IGBT",
+      "file": "SIGMA/Manual_IGBT.pdf",
+      "r2_key": "files/SIGMA/Manual_IGBT.pdf",
+      "url": "/files/SIGMA/Manual_IGBT.pdf",
+      "size": 37209987,
+      "ext": "pdf",
+      "tags": [
+        "igbt",
+        "manual",
+        "pdf",
+        "sigma"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "f52c7a79e36d",
+      "brand": "SIGMA",
+      "type": "manual",
+      "title": "OTIS+(Maniobra+Sigma+MMR)",
+      "file": "SIGMA/OTIS+(Maniobra+Sigma+MMR).pdf",
+      "r2_key": "files/SIGMA/OTIS%2B(Maniobra%2BSigma%2BMMR).pdf",
+      "url": "/files/SIGMA/OTIS%2B(Maniobra%2BSigma%2BMMR).pdf",
+      "size": 3994291,
+      "ext": "pdf",
+      "tags": [
+        "maniobra",
+        "mmr",
+        "otis",
+        "pdf",
+        "sigma"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "e94a51b6cde0",
+      "brand": "SIGMA",
+      "type": "manual",
+      "title": "sigma-iris-nv",
+      "file": "SIGMA/sigma-iris-nv.pdf",
+      "r2_key": "files/SIGMA/sigma-iris-nv.pdf",
+      "url": "/files/SIGMA/sigma-iris-nv.pdf",
+      "size": 998754,
+      "ext": "pdf",
+      "tags": [
+        "iris",
+        "pdf",
+        "sigma"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "befe5f4c94da",
+      "brand": "SMART LIFT",
+      "type": "manual",
+      "title": "Smart",
+      "file": "SMART LIFT/Smart.pdf",
+      "r2_key": "files/SMART LIFT/Smart.pdf",
+      "url": "/files/SMART LIFT/Smart.pdf",
+      "size": 1764843,
+      "ext": "pdf",
+      "tags": [
+        "lift",
+        "pdf",
+        "smart"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "ac6f3b656275",
+      "brand": "SMART LIFT",
+      "type": "parameter-debugging",
+      "title": "Smart debugging instruction",
+      "file": "SMART LIFT/Smart debugging instruction.pdf",
+      "r2_key": "files/SMART LIFT/Smart debugging instruction.pdf",
+      "url": "/files/SMART LIFT/Smart debugging instruction.pdf",
+      "size": 1323971,
+      "ext": "pdf",
+      "tags": [
+        "debugging",
+        "instruction",
+        "lift",
+        "pdf",
+        "smart"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "59718174eaed",
+      "brand": "SOFTWARE & APK",
+      "type": "software-doc-package",
+      "title": "20081030162737391",
+      "file": "SOFTWARE & APK/BLMS(English) V1.11/Resources/PictureBackGround/20081030162737391.jpg",
+      "r2_key": "files/SOFTWARE %26 APK/BLMS(English) V1.11/Resources/PictureBackGround/20081030162737391.jpg",
+      "url": "/files/SOFTWARE %26 APK/BLMS(English) V1.11/Resources/PictureBackGround/20081030162737391.jpg",
+      "size": 22550,
+      "ext": "jpg",
+      "tags": [
+        "20081030162737391",
+        "apk",
+        "blms",
+        "english",
+        "jpg",
+        "picturebackground",
+        "resources",
+        "software"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "ab19c86520b2",
+      "brand": "SOFTWARE & APK",
+      "type": "software-doc-package",
+      "title": "B0 ΦâîµÖ»",
+      "file": "SOFTWARE & APK/BLMS(English) V1.11/Resources/PictureBackGround/B0 ΦâîµÖ».jpg",
+      "r2_key": "files/SOFTWARE %26 APK/BLMS(English) V1.11/Resources/PictureBackGround/B0 %CE%A6%C3%A2%C3%AE%C2%B5%C3%96%C2%BB.jpg",
+      "url": "/files/SOFTWARE %26 APK/BLMS(English) V1.11/Resources/PictureBackGround/B0 %CE%A6%C3%A2%C3%AE%C2%B5%C3%96%C2%BB.jpg",
+      "size": 67399,
+      "ext": "jpg",
+      "tags": [
+        "apk",
+        "blms",
+        "english",
+        "jpg",
+        "picturebackground",
+        "resources",
+        "software"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "edb09c4a2119",
+      "brand": "SOFTWARE & APK",
+      "type": "software-doc-package",
+      "title": "B0 背景",
+      "file": "SOFTWARE & APK/BLMS(English) V1.11/Resources/PictureBackGround/B0 背景.jpg",
+      "r2_key": "files/SOFTWARE %26 APK/BLMS(English) V1.11/Resources/PictureBackGround/B0 %E8%83%8C%E6%99%AF.jpg",
+      "url": "/files/SOFTWARE %26 APK/BLMS(English) V1.11/Resources/PictureBackGround/B0 %E8%83%8C%E6%99%AF.jpg",
+      "size": 67399,
+      "ext": "jpg",
+      "tags": [
+        "apk",
+        "blms",
+        "english",
+        "jpg",
+        "picturebackground",
+        "resources",
+        "software"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "4e9a33e97f61",
+      "brand": "SOFTWARE & APK",
+      "type": "software-doc-package",
+      "title": "B1 ΦâîµÖ»",
+      "file": "SOFTWARE & APK/BLMS(English) V1.11/Resources/PictureBackGround/B1 ΦâîµÖ».bmp",
+      "r2_key": "files/SOFTWARE %26 APK/BLMS(English) V1.11/Resources/PictureBackGround/B1 %CE%A6%C3%A2%C3%AE%C2%B5%C3%96%C2%BB.bmp",
+      "url": "/files/SOFTWARE %26 APK/BLMS(English) V1.11/Resources/PictureBackGround/B1 %CE%A6%C3%A2%C3%AE%C2%B5%C3%96%C2%BB.bmp",
+      "size": 391734,
+      "ext": "bmp",
+      "tags": [
+        "apk",
+        "blms",
+        "bmp",
+        "english",
+        "picturebackground",
+        "resources",
+        "software"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "9d44059b1c96",
+      "brand": "SOFTWARE & APK",
+      "type": "software-doc-package",
+      "title": "B1 背景",
+      "file": "SOFTWARE & APK/BLMS(English) V1.11/Resources/PictureBackGround/B1 背景.bmp",
+      "r2_key": "files/SOFTWARE %26 APK/BLMS(English) V1.11/Resources/PictureBackGround/B1 %E8%83%8C%E6%99%AF.bmp",
+      "url": "/files/SOFTWARE %26 APK/BLMS(English) V1.11/Resources/PictureBackGround/B1 %E8%83%8C%E6%99%AF.bmp",
+      "size": 391734,
+      "ext": "bmp",
+      "tags": [
+        "apk",
+        "blms",
+        "bmp",
+        "english",
+        "picturebackground",
+        "resources",
+        "software"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "69e8db419821",
+      "brand": "SOFTWARE & APK",
+      "type": "software-doc-package",
+      "title": "BackGroup",
+      "file": "SOFTWARE & APK/BLMS(English) V1.11/Resources/PictureBackGround/BackGroup.jpg",
+      "r2_key": "files/SOFTWARE %26 APK/BLMS(English) V1.11/Resources/PictureBackGround/BackGroup.jpg",
+      "url": "/files/SOFTWARE %26 APK/BLMS(English) V1.11/Resources/PictureBackGround/BackGroup.jpg",
+      "size": 67788,
+      "ext": "jpg",
+      "tags": [
+        "apk",
+        "backgroup",
+        "blms",
+        "english",
+        "jpg",
+        "picturebackground",
+        "resources",
+        "software"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "932f33edd616",
+      "brand": "SOFTWARE & APK",
+      "type": "software-doc-package",
+      "title": "BLMS software manunal",
+      "file": "SOFTWARE & APK/BLMS(English) V1.11/BLMS software manunal.pdf",
+      "r2_key": "files/SOFTWARE %26 APK/BLMS(English) V1.11/BLMS software manunal.pdf",
+      "url": "/files/SOFTWARE %26 APK/BLMS(English) V1.11/BLMS software manunal.pdf",
+      "size": 3153484,
+      "ext": "pdf",
+      "tags": [
+        "apk",
+        "blms",
+        "english",
+        "manunal",
+        "pdf",
+        "software"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "3faea365898f",
+      "brand": "SOFTWARE & APK",
+      "type": "parameter-debugging",
+      "title": "Blu simple debug",
+      "file": "SOFTWARE & APK/BLMS(English) V1.11/Blu simple debug.pdf",
+      "r2_key": "files/SOFTWARE %26 APK/BLMS(English) V1.11/Blu simple debug.pdf",
+      "url": "/files/SOFTWARE %26 APK/BLMS(English) V1.11/Blu simple debug.pdf",
+      "size": 674811,
+      "ext": "pdf",
+      "tags": [
+        "apk",
+        "blms",
+        "blu",
+        "debug",
+        "english",
+        "pdf",
+        "simple",
+        "software"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "eff29ac3dbdc",
+      "brand": "SOFTWARE & APK",
+      "type": "software-doc-package",
+      "title": "Blu-3 manu(Chinese)",
+      "file": "SOFTWARE & APK/BLMS(English) V1.11/Blu-3 manu(Chinese).pdf",
+      "r2_key": "files/SOFTWARE %26 APK/BLMS(English) V1.11/Blu-3 manu(Chinese).pdf",
+      "url": "/files/SOFTWARE %26 APK/BLMS(English) V1.11/Blu-3 manu(Chinese).pdf",
+      "size": 2878838,
+      "ext": "pdf",
+      "tags": [
+        "apk",
+        "blms",
+        "blu",
+        "chinese",
+        "english",
+        "manu",
+        "pdf",
+        "software"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "d6472a299d1c",
+      "brand": "SOFTWARE & APK",
+      "type": "software-doc-package",
+      "title": "Blu-3 manu(English)",
+      "file": "SOFTWARE & APK/BLMS(English) V1.11/Blu-3 manu(English).pdf",
+      "r2_key": "files/SOFTWARE %26 APK/BLMS(English) V1.11/Blu-3 manu(English).pdf",
+      "url": "/files/SOFTWARE %26 APK/BLMS(English) V1.11/Blu-3 manu(English).pdf",
+      "size": 2952919,
+      "ext": "pdf",
+      "tags": [
+        "apk",
+        "blms",
+        "blu",
+        "english",
+        "manu",
+        "pdf",
+        "software"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "aa5128bcc8ec",
+      "brand": "SRH",
+      "type": "wiring",
+      "title": "SRH_WIRING",
+      "file": "SRH/SRH_WIRING.pdf",
+      "r2_key": "files/SRH/SRH_WIRING.pdf",
+      "url": "/files/SRH/SRH_WIRING.pdf",
+      "size": 1241339,
+      "ext": "pdf",
+      "tags": [
+        "pdf",
+        "srh",
+        "wiring"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "71c9db8f5689",
+      "brand": "SRH",
+      "type": "wiring",
+      "title": "Wiring diagram SRH",
+      "file": "SRH/Wiring diagram SRH.pdf",
+      "r2_key": "files/SRH/Wiring diagram SRH.pdf",
+      "url": "/files/SRH/Wiring diagram SRH.pdf",
+      "size": 1201821,
+      "ext": "pdf",
+      "tags": [
+        "diagram",
+        "pdf",
+        "srh",
+        "wiring"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "d34e24554d77",
+      "brand": "STEP",
+      "type": "manual",
+      "title": "AS320 Series Elevator-used inverter User Manual V2.08(1)",
+      "file": "STEP/AS320 Series Elevator-used inverter User Manual V2.08(1).pdf",
+      "r2_key": "files/STEP/AS320 Series Elevator-used inverter User Manual V2.08(1).pdf",
+      "url": "/files/STEP/AS320 Series Elevator-used inverter User Manual V2.08(1).pdf",
+      "size": 2427643,
+      "ext": "pdf",
+      "tags": [
+        "as320",
+        "elevator",
+        "inverter",
+        "manual",
+        "pdf",
+        "series",
+        "step",
+        "used",
+        "user"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "0e3523d62422",
+      "brand": "STEP",
+      "type": "manual",
+      "title": "AS380 Series Elevator Intergrated Controller User Instruction V2.13",
+      "file": "STEP/AS380 Series Elevator Intergrated Controller User Instruction V2.13.pdf",
+      "r2_key": "files/STEP/AS380 Series Elevator Intergrated Controller User Instruction V2.13.pdf",
+      "url": "/files/STEP/AS380 Series Elevator Intergrated Controller User Instruction V2.13.pdf",
+      "size": 9952828,
+      "ext": "pdf",
+      "tags": [
+        "as380",
+        "controller",
+        "elevator",
+        "instruction",
+        "intergrated",
+        "pdf",
+        "series",
+        "step",
+        "user"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "510f6c4f046a",
+      "brand": "STEP",
+      "type": "manual",
+      "title": "As380 wiribg",
+      "file": "STEP/As380 wiribg.pdf",
+      "r2_key": "files/STEP/As380 wiribg.pdf",
+      "url": "/files/STEP/As380 wiribg.pdf",
+      "size": 5048923,
+      "ext": "pdf",
+      "tags": [
+        "as380",
+        "pdf",
+        "step",
+        "wiribg"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "677b3b554552",
+      "brand": "STEP",
+      "type": "manual",
+      "title": "C7000+ Series Elevator Intergrated Controller Operating manual V4.1",
+      "file": "STEP/C7000+ Series Elevator Intergrated Controller Operating manual V4.1.pdf",
+      "r2_key": "files/STEP/C7000%2B Series Elevator Intergrated Controller Operating manual V4.1.pdf",
+      "url": "/files/STEP/C7000%2B Series Elevator Intergrated Controller Operating manual V4.1.pdf",
+      "size": 13406022,
+      "ext": "pdf",
+      "tags": [
+        "c7000",
+        "controller",
+        "elevator",
+        "intergrated",
+        "manual",
+        "operating",
+        "pdf",
+        "series",
+        "step"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "42d5cc31bed5",
+      "brand": "STEP",
+      "type": "wiring",
+      "title": "pdf-step-f5021-diagramas_compress",
+      "file": "STEP/pdf-step-f5021-diagramas_compress.pdf",
+      "r2_key": "files/STEP/pdf-step-f5021-diagramas_compress.pdf",
+      "url": "/files/STEP/pdf-step-f5021-diagramas_compress.pdf",
+      "size": 4367135,
+      "ext": "pdf",
+      "tags": [
+        "compress",
+        "diagramas",
+        "f5021",
+        "pdf",
+        "step"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "9d918a4cbe1f",
+      "brand": "STEP",
+      "type": "manual",
+      "title": "S3 Series elevator inverters",
+      "file": "STEP/S3 Series elevator inverters.pdf",
+      "r2_key": "files/STEP/S3 Series elevator inverters.pdf",
+      "url": "/files/STEP/S3 Series elevator inverters.pdf",
+      "size": 2812900,
+      "ext": "pdf",
+      "tags": [
+        "elevator",
+        "inverters",
+        "pdf",
+        "series",
+        "step"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "e3e796402cfc",
+      "brand": "STEP",
+      "type": "manual",
+      "title": "SM-01-E",
+      "file": "STEP/SM-01-E.pdf",
+      "r2_key": "files/STEP/SM-01-E.pdf",
+      "url": "/files/STEP/SM-01-E.pdf",
+      "size": 334729,
+      "ext": "pdf",
+      "tags": [
+        "pdf",
+        "step"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "79cb741fb62a",
+      "brand": "STEP",
+      "type": "manual",
+      "title": "Step f5021 chino maniobra-1",
+      "file": "STEP/Step f5021 chino maniobra-1.pdf",
+      "r2_key": "files/STEP/Step f5021 chino maniobra-1.pdf",
+      "url": "/files/STEP/Step f5021 chino maniobra-1.pdf",
+      "size": 5405462,
+      "ext": "pdf",
+      "tags": [
+        "chino",
+        "f5021",
+        "maniobra",
+        "pdf",
+        "step"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "333f22f126af",
+      "brand": "SWORD",
+      "type": "manual",
+      "title": "HAMCB Sword",
+      "file": "SWORD/HAMCB Sword.pdf",
+      "r2_key": "files/SWORD/HAMCB Sword.pdf",
+      "url": "/files/SWORD/HAMCB Sword.pdf",
+      "size": 6618278,
+      "ext": "pdf",
+      "tags": [
+        "hamcb",
+        "pdf",
+        "sword"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "b33678a44e1d",
+      "brand": "SWORD",
+      "type": "wiring",
+      "title": "sword -hamcb Electrical diagram",
+      "file": "SWORD/sword -hamcb Electrical diagram.pdf",
+      "r2_key": "files/SWORD/sword -hamcb Electrical diagram.pdf",
+      "url": "/files/SWORD/sword -hamcb Electrical diagram.pdf",
+      "size": 6791566,
+      "ext": "pdf",
+      "tags": [
+        "diagram",
+        "electrical",
+        "hamcb",
+        "pdf",
+        "sword"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "2e9e8abf93fa",
+      "brand": "SWORD",
+      "type": "manual",
+      "title": "Sword elevator HALCMB 1",
+      "file": "SWORD/Sword elevator HALCMB 1.pdf",
+      "r2_key": "files/SWORD/Sword elevator HALCMB 1.pdf",
+      "url": "/files/SWORD/Sword elevator HALCMB 1.pdf",
+      "size": 1554036,
+      "ext": "pdf",
+      "tags": [
+        "elevator",
+        "halcmb",
+        "pdf",
+        "sword"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "1f2e5e13fa98",
+      "brand": "SWORD",
+      "type": "wiring",
+      "title": "XO-CON4342electric diagram",
+      "file": "SWORD/XO-CON4342electric diagram.pdf",
+      "r2_key": "files/SWORD/XO-CON4342electric diagram.pdf",
+      "url": "/files/SWORD/XO-CON4342electric diagram.pdf",
+      "size": 6702670,
+      "ext": "pdf",
+      "tags": [
+        "con4342electric",
+        "diagram",
+        "pdf",
+        "sword"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "de5c9e811e12",
+      "brand": "TYSEEN",
+      "type": "manual",
+      "title": "R000097092E_B_MC2-B Control System User`s Manual_210831_115516",
+      "file": "TYSEEN/R000097092E_B_MC2-B Control System User`s Manual_210831_115516.pdf",
+      "r2_key": "files/TYSEEN/R000097092E_B_MC2-B Control System User%60s Manual_210831_115516.pdf",
+      "url": "/files/TYSEEN/R000097092E_B_MC2-B Control System User%60s Manual_210831_115516.pdf",
+      "size": 5723324,
+      "ext": "pdf",
+      "tags": [
+        "115516",
+        "210831",
+        "control",
+        "manual",
+        "mc2",
+        "pdf",
+        "r000097092e",
+        "system",
+        "tyseen",
+        "user"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "cffe67327d6b",
+      "brand": "TYSEEN",
+      "type": "manual",
+      "title": "Thysseen Service manual MC21540371480772",
+      "file": "TYSEEN/Thysseen Service manual MC21540371480772.pdf",
+      "r2_key": "files/TYSEEN/Thysseen Service manual MC21540371480772.pdf",
+      "url": "/files/TYSEEN/Thysseen Service manual MC21540371480772.pdf",
+      "size": 925390,
+      "ext": "pdf",
+      "tags": [
+        "manual",
+        "mc21540371480772",
+        "pdf",
+        "service",
+        "thysseen",
+        "tyseen"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "68f9feb4e6c7",
+      "brand": "VIDEO DAN GAMBAR",
+      "type": "manual",
+      "title": "LOGO",
+      "file": "VIDEO DAN GAMBAR/LOGO.jpeg",
+      "r2_key": "files/VIDEO DAN GAMBAR/LOGO.jpeg",
+      "url": "/files/VIDEO DAN GAMBAR/LOGO.jpeg",
+      "size": 52282,
+      "ext": "jpeg",
+      "tags": [
+        "dan",
+        "gambar",
+        "jpeg",
+        "logo",
+        "video"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "086d9b6a80a3",
+      "brand": "WELLS MONARCH",
+      "type": "wiring",
+      "title": "WELLS240-3009 electrical wiring",
+      "file": "WELLS MONARCH/WELLS240-3009 electrical wiring.pdf",
+      "r2_key": "files/WELLS MONARCH/WELLS240-3009 electrical wiring.pdf",
+      "url": "/files/WELLS MONARCH/WELLS240-3009 electrical wiring.pdf",
+      "size": 2328477,
+      "ext": "pdf",
+      "tags": [
+        "3009",
+        "electrical",
+        "monarch",
+        "pdf",
+        "wells",
+        "wells240",
+        "wiring"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "e1fe993d5ba3",
+      "brand": "YUNGTAI",
+      "type": "fault-code",
+      "title": "120201- Error 21 _Cara2 pengecekan dan solusinya",
+      "file": "YUNGTAI/120201- Error 21 _Cara2 pengecekan dan solusinya.pdf",
+      "r2_key": "files/YUNGTAI/120201- Error 21 _Cara2 pengecekan dan solusinya.pdf",
+      "url": "/files/YUNGTAI/120201- Error 21 _Cara2 pengecekan dan solusinya.pdf",
+      "size": 1064431,
+      "ext": "pdf",
+      "tags": [
+        "120201",
+        "cara2",
+        "dan",
+        "error",
+        "pdf",
+        "pengecekan",
+        "solusinya",
+        "yungtai"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "4421544fd24f",
+      "brand": "YUNGTAI",
+      "type": "manual",
+      "title": "120706-MANUAL KEY PAD PDA",
+      "file": "YUNGTAI/120706-MANUAL KEY PAD PDA.pdf",
+      "r2_key": "files/YUNGTAI/120706-MANUAL KEY PAD PDA.pdf",
+      "url": "/files/YUNGTAI/120706-MANUAL KEY PAD PDA.pdf",
+      "size": 198111,
+      "ext": "pdf",
+      "tags": [
+        "120706",
+        "key",
+        "manual",
+        "pad",
+        "pda",
+        "pdf",
+        "yungtai"
+      ],
+      "hosting": "github-pages"
+    },
+    {
+      "id": "464da245a403",
+      "brand": "YUNGTAI",
+      "type": "manual",
+      "title": "BALANCING & TEST BEBAN YUNGTAY",
+      "file": "YUNGTAI/BALANCING & TEST BEBAN YUNGTAY.pdf",
+      "r2_key": "files/YUNGTAI/BALANCING %26 TEST BEBAN YUNGTAY.pdf",
+      "url": "/files/YUNGTAI/BALANCING %26 TEST BEBAN YUNGTAY.pdf",
+      "size": 39810,
+      "ext": "pdf",
+      "tags": [
+        "balancing",
+        "beban",
+        "pdf",
+        "test",
+        "yungtai",
+        "yungtay"
+      ],
+      "hosting": "github-pages"
+    }
+  ],
+  "global_taxonomy": {
+    "version": "2026.05.28.1606",
+    "generated_at": "2026-05-28T09:06:34.009509+00:00",
+    "description": "Global elevator OEM/controller/drive/component taxonomy. Missing entries are placeholders for APK/web global structure.",
+    "total_items": 80,
+    "available": 32,
+    "partial": 9,
+    "missing": 39,
+    "items": [
+      {
+        "name": "Otis",
+        "slug": "otis",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "otis",
+          "gen2",
+          "lcb",
+          "acd",
+          "mcs",
+          "otis2000"
+        ],
+        "matched_local_categories": [
+          "OTIS",
+          "SIGMA"
+        ],
+        "priority": "normal",
+        "document_count": 11
+      },
+      {
+        "name": "KONE",
+        "slug": "kone",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "kone",
+          "lce",
+          "kdm",
+          "monospace",
+          "ecodisc"
+        ],
+        "matched_local_categories": [
+          "KONE",
+          "MONARCH"
+        ],
+        "priority": "normal",
+        "document_count": 20
+      },
+      {
+        "name": "Schindler",
+        "slug": "schindler",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "schindler",
+          "bionic",
+          "3300",
+          "3600",
+          "5300",
+          "6300"
+        ],
+        "matched_local_categories": [
+          "AIEC3300",
+          "SCHINDLER"
+        ],
+        "priority": "normal",
+        "document_count": 9
+      },
+      {
+        "name": "TK Elevator / ThyssenKrupp",
+        "slug": "tk-elevator-thyssenkrupp",
+        "category": "oem",
+        "status": "partial",
+        "aliases": [
+          "tke",
+          "thyssen",
+          "thyssenkrupp",
+          "tac",
+          "mc2",
+          "synergy"
+        ],
+        "matched_local_categories": [
+          "TYSEEN"
+        ],
+        "priority": "high",
+        "document_count": 2
+      },
+      {
+        "name": "Mitsubishi Electric",
+        "slug": "mitsubishi-electric",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "mitsubishi",
+          "vfgl",
+          "elenessa",
+          "nexiez",
+          "gps",
+          "vfcl"
+        ],
+        "matched_local_categories": [
+          "MITSUBISHI"
+        ],
+        "priority": "normal",
+        "document_count": 3
+      },
+      {
+        "name": "Hitachi",
+        "slug": "hitachi",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "hitachi",
+          "hgp",
+          "uax",
+          "fia",
+          "gvf"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Fujitec",
+        "slug": "fujitec",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "fujitec",
+          "cp40",
+          "rexia",
+          "viridian"
+        ],
+        "matched_local_categories": [
+          "Fujitec"
+        ],
+        "priority": "normal",
+        "document_count": 1
+      },
+      {
+        "name": "Hyundai Elevator",
+        "slug": "hyundai-elevator",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "hyundai",
+          "stvf",
+          "wbvf",
+          "luxen"
+        ],
+        "matched_local_categories": [
+          "HYUNDAI"
+        ],
+        "priority": "normal",
+        "document_count": 4
+      },
+      {
+        "name": "Toshiba Elevator",
+        "slug": "toshiba-elevator",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "toshiba",
+          "cv",
+          "spacel"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Sigma",
+        "slug": "sigma",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "sigma",
+          "lg sigma",
+          "iris",
+          "mmr",
+          "acra"
+        ],
+        "matched_local_categories": [
+          "SIGMA"
+        ],
+        "priority": "normal",
+        "document_count": 4
+      },
+      {
+        "name": "LG / Sigma Legacy",
+        "slug": "lg-sigma-legacy",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "lg",
+          "sigma",
+          "lg-sigma"
+        ],
+        "matched_local_categories": [
+          "SIGMA"
+        ],
+        "priority": "normal",
+        "document_count": 4
+      },
+      {
+        "name": "Orona",
+        "slug": "orona",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "orona",
+          "arona"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Kleemann",
+        "slug": "kleemann",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "kleemann"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Cibes",
+        "slug": "cibes",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "cibes",
+          "cicon",
+          "cidis"
+        ],
+        "matched_local_categories": [
+          "CIBES"
+        ],
+        "priority": "normal",
+        "document_count": 2
+      },
+      {
+        "name": "Stannah",
+        "slug": "stannah",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "stannah"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Doppler",
+        "slug": "doppler",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "doppler"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Sodimas",
+        "slug": "sodimas",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "sodimas"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "MP Lifts",
+        "slug": "mp-lifts",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "mp lifts",
+          "mp ascensores"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "GMV",
+        "slug": "gmv",
+        "category": "oem_hydraulic",
+        "status": "missing",
+        "aliases": [
+          "gmv",
+          "hydraulic"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "IGV",
+        "slug": "igv",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "igv",
+          "domuslift"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "SJEC",
+        "slug": "sjec",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "sjec"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Canny / Fuji Canny",
+        "slug": "canny-fuji-canny",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "canny",
+          "fuji canny",
+          "kls",
+          "klb"
+        ],
+        "matched_local_categories": [
+          "FUJI CANNY"
+        ],
+        "priority": "normal",
+        "document_count": 2
+      },
+      {
+        "name": "IFE",
+        "slug": "ife",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "ife",
+          "ctrl80"
+        ],
+        "matched_local_categories": [
+          "IFE"
+        ],
+        "priority": "normal",
+        "document_count": 3
+      },
+      {
+        "name": "Sicher",
+        "slug": "sicher",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "sicher"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Hosting Elevator",
+        "slug": "hosting-elevator",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "hosting",
+          "ae hosting"
+        ],
+        "matched_local_categories": [
+          "AE HOSTING"
+        ],
+        "priority": "normal",
+        "document_count": 3
+      },
+      {
+        "name": "YungTai / Yungtay",
+        "slug": "yungtai-yungtay",
+        "category": "oem",
+        "status": "available",
+        "aliases": [
+          "yungtai",
+          "yungtay"
+        ],
+        "matched_local_categories": [
+          "YUNGTAI"
+        ],
+        "priority": "normal",
+        "document_count": 3
+      },
+      {
+        "name": "Sanyo Elevator",
+        "slug": "sanyo-elevator",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "sanyo elevator"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Volkslift",
+        "slug": "volkslift",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "volkslift"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Brilliant / BLT",
+        "slug": "brilliant-blt",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "blt",
+          "brilliant"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "EITA",
+        "slug": "eita",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "eita"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Express Lift Legacy",
+        "slug": "express-lift-legacy",
+        "category": "oem_legacy",
+        "status": "missing",
+        "aliases": [
+          "express lift"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Westinghouse Legacy",
+        "slug": "westinghouse-legacy",
+        "category": "oem_legacy",
+        "status": "missing",
+        "aliases": [
+          "westinghouse"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Dover Legacy",
+        "slug": "dover-legacy",
+        "category": "oem_legacy",
+        "status": "missing",
+        "aliases": [
+          "dover"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Montgomery Legacy",
+        "slug": "montgomery-legacy",
+        "category": "oem_legacy",
+        "status": "missing",
+        "aliases": [
+          "montgomery"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Fujita",
+        "slug": "fujita",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "fujita elevator"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Marohn",
+        "slug": "marohn",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "marohn"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Tianjin Otis / Xizi Otis",
+        "slug": "tianjin-otis-xizi-otis",
+        "category": "oem",
+        "status": "missing",
+        "aliases": [
+          "xizi otis",
+          "tianjin otis"
+        ],
+        "matched_local_categories": [],
+        "priority": "high",
+        "document_count": 0
+      },
+      {
+        "name": "Monarch / NICE",
+        "slug": "monarch-nice",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "monarch",
+          "nice3000",
+          "nice1000",
+          "nice7000",
+          "nice9000",
+          "mctc",
+          "slec"
+        ],
+        "matched_local_categories": [
+          "MONARCH",
+          "WELLS MONARCH",
+          "_SYNC_LIVE_IMPORTS"
+        ],
+        "priority": "normal",
+        "document_count": 29
+      },
+      {
+        "name": "STEP / AS380 / AS320",
+        "slug": "step-as380-as320",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "step",
+          "as380",
+          "as320",
+          "c7000",
+          "sm-01",
+          "f5021"
+        ],
+        "matched_local_categories": [
+          "MONARCH",
+          "STEP"
+        ],
+        "priority": "normal",
+        "document_count": 26
+      },
+      {
+        "name": "Arkel",
+        "slug": "arkel",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "arkel",
+          "arl-300",
+          "arcode"
+        ],
+        "matched_local_categories": [
+          "ARKEL"
+        ],
+        "priority": "normal",
+        "document_count": 1
+      },
+      {
+        "name": "Sicon",
+        "slug": "sicon",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "sicon",
+          "2001ci",
+          "3000sci"
+        ],
+        "matched_local_categories": [
+          "LOUSERLIFT",
+          "SICON"
+        ],
+        "priority": "normal",
+        "document_count": 8
+      },
+      {
+        "name": "BlueLight / BL2000",
+        "slug": "bluelight-bl2000",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "bluelight",
+          "bl2000",
+          "blms"
+        ],
+        "matched_local_categories": [
+          "BLUELIGHT",
+          "SOFTWARE & APK",
+          "_SYNC_LIVE_IMPORTS"
+        ],
+        "priority": "normal",
+        "document_count": 21
+      },
+      {
+        "name": "HPMONT / MONT",
+        "slug": "hpmont-mont",
+        "category": "controller_drive",
+        "status": "available",
+        "aliases": [
+          "hpmont",
+          "mont71",
+          "mont"
+        ],
+        "matched_local_categories": [
+          "HPMONT"
+        ],
+        "priority": "normal",
+        "document_count": 3
+      },
+      {
+        "name": "INVT EC Series",
+        "slug": "invt-ec-series",
+        "category": "controller_drive",
+        "status": "available",
+        "aliases": [
+          "invt",
+          "ec100",
+          "ec160"
+        ],
+        "matched_local_categories": [
+          "INVT"
+        ],
+        "priority": "normal",
+        "document_count": 3
+      },
+      {
+        "name": "Nidec / Control Techniques",
+        "slug": "nidec-control-techniques",
+        "category": "drive_controller",
+        "status": "available",
+        "aliases": [
+          "nidec",
+          "unidrive",
+          "control techniques",
+          "kinetek"
+        ],
+        "matched_local_categories": [
+          "NIDEC"
+        ],
+        "priority": "normal",
+        "document_count": 2
+      },
+      {
+        "name": "AIEC3300",
+        "slug": "aiec3300",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "aiec3300"
+        ],
+        "matched_local_categories": [
+          "AIEC3300"
+        ],
+        "priority": "normal",
+        "document_count": 1
+      },
+      {
+        "name": "Ningbo / Hongda",
+        "slug": "ningbo-hongda",
+        "category": "controller",
+        "status": "partial",
+        "aliases": [
+          "ningbo",
+          "hongda",
+          "s50-e6"
+        ],
+        "matched_local_categories": [
+          "AE HOSTING",
+          "ALL DOOR INVERTERS",
+          "IFE"
+        ],
+        "priority": "high",
+        "document_count": 17
+      },
+      {
+        "name": "Smart Lift",
+        "slug": "smart-lift",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "smart lift"
+        ],
+        "matched_local_categories": [
+          "SMART LIFT"
+        ],
+        "priority": "normal",
+        "document_count": 2
+      },
+      {
+        "name": "SRH",
+        "slug": "srh",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "srh"
+        ],
+        "matched_local_categories": [
+          "SRH"
+        ],
+        "priority": "normal",
+        "document_count": 2
+      },
+      {
+        "name": "Sword",
+        "slug": "sword",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "sword",
+          "hamcb",
+          "halcmb"
+        ],
+        "matched_local_categories": [
+          "SWORD"
+        ],
+        "priority": "normal",
+        "document_count": 4
+      },
+      {
+        "name": "Tyseen",
+        "slug": "tyseen",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "tyseen",
+          "mc2-b"
+        ],
+        "matched_local_categories": [
+          "TYSEEN"
+        ],
+        "priority": "normal",
+        "document_count": 2
+      },
+      {
+        "name": "Mico M3",
+        "slug": "mico-m3",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "mico",
+          "m3p"
+        ],
+        "matched_local_categories": [
+          "MICO M3",
+          "SCHINDLER"
+        ],
+        "priority": "normal",
+        "document_count": 11
+      },
+      {
+        "name": "Louserlift",
+        "slug": "louserlift",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "louserlift",
+          "sicon"
+        ],
+        "matched_local_categories": [
+          "LOUSERLIFT",
+          "SICON"
+        ],
+        "priority": "normal",
+        "document_count": 8
+      },
+      {
+        "name": "Wells Monarch",
+        "slug": "wells-monarch",
+        "category": "controller",
+        "status": "available",
+        "aliases": [
+          "wells",
+          "wells monarch"
+        ],
+        "matched_local_categories": [
+          "WELLS MONARCH"
+        ],
+        "priority": "normal",
+        "document_count": 1
+      },
+      {
+        "name": "Yaskawa",
+        "slug": "yaskawa",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "yaskawa",
+          "l1000a",
+          "l1000v",
+          "ga700"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Fuji Electric / Frenic Lift",
+        "slug": "fuji-electric-frenic-lift",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "fuji electric",
+          "frenic",
+          "frenic-lift"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Delta",
+        "slug": "delta",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "delta",
+          "ied",
+          "cp2000",
+          "ms300"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Siemens",
+        "slug": "siemens",
+        "category": "drive",
+        "status": "available",
+        "aliases": [
+          "siemens",
+          "sm5000",
+          "micromaster",
+          "sinamics"
+        ],
+        "matched_local_categories": [
+          "SIEMENS"
+        ],
+        "priority": "normal",
+        "document_count": 1
+      },
+      {
+        "name": "Schneider Electric",
+        "slug": "schneider-electric",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "schneider",
+          "altivar",
+          "atv"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Ziehl-Abegg",
+        "slug": "ziehl-abegg",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "ziehl",
+          "ziehl-abegg",
+          "zeta"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Gefran",
+        "slug": "gefran",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "gefran",
+          "adp200"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "LS Electric",
+        "slug": "ls-electric",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "ls electric",
+          "lg inverter",
+          "sv-i"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Omron",
+        "slug": "omron",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "omron",
+          "3g3"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Mitsubishi Inverter",
+        "slug": "mitsubishi-inverter",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "mitsubishi inverter",
+          "fr-a",
+          "fr-e"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Toshiba Drive",
+        "slug": "toshiba-drive",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "toshiba drive",
+          "tosvert"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "ABB",
+        "slug": "abb",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "abb",
+          "acs"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Danfoss",
+        "slug": "danfoss",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "danfoss",
+          "vlt"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "KEB",
+        "slug": "keb",
+        "category": "drive",
+        "status": "missing",
+        "aliases": [
+          "keb",
+          "combivert"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Wittur / Selcom",
+        "slug": "wittur-selcom",
+        "category": "door_system",
+        "status": "missing",
+        "aliases": [
+          "wittur",
+          "selcom",
+          "hydra",
+          "augusta"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Fermator",
+        "slug": "fermator",
+        "category": "door_system",
+        "status": "missing",
+        "aliases": [
+          "fermator",
+          "vvvf door"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Sematic",
+        "slug": "sematic",
+        "category": "door_system",
+        "status": "missing",
+        "aliases": [
+          "sematic"
+        ],
+        "matched_local_categories": [],
+        "priority": "normal",
+        "document_count": 0
+      },
+      {
+        "name": "Panasonic Door Operator",
+        "slug": "panasonic-door-operator",
+        "category": "door_drive",
+        "status": "partial",
+        "aliases": [
+          "panasonic door",
+          "panasonic"
+        ],
+        "matched_local_categories": [
+          "ALL DOOR INVERTERS"
+        ],
+        "priority": "normal",
+        "document_count": 11
+      },
+      {
+        "name": "Emerson Door Drive",
+        "slug": "emerson-door-drive",
+        "category": "door_drive",
+        "status": "partial",
+        "aliases": [
+          "emerson",
+          "td3200",
+          "ev3200"
+        ],
+        "matched_local_categories": [
+          "ALL DOOR INVERTERS"
+        ],
+        "priority": "normal",
+        "document_count": 11
+      },
+      {
+        "name": "Ningbo Door Inverter",
+        "slug": "ningbo-door-inverter",
+        "category": "door_drive",
+        "status": "partial",
+        "aliases": [
+          "nsfc01",
+          "ningbo door"
+        ],
+        "matched_local_categories": [
+          "ALL DOOR INVERTERS"
+        ],
+        "priority": "normal",
+        "document_count": 11
+      },
+      {
+        "name": "Ouling Door Drive",
+        "slug": "ouling-door-drive",
+        "category": "door_drive",
+        "status": "partial",
+        "aliases": [
+          "ouling",
+          "vf200"
+        ],
+        "matched_local_categories": [
+          "ALL DOOR INVERTERS"
+        ],
+        "priority": "normal",
+        "document_count": 11
+      },
+      {
+        "name": "YS-K01 Door Drive",
+        "slug": "ys-k01-door-drive",
+        "category": "door_drive",
+        "status": "partial",
+        "aliases": [
+          "ys-k01"
+        ],
+        "matched_local_categories": [
+          "ALL DOOR INVERTERS"
+        ],
+        "priority": "normal",
+        "document_count": 11
+      },
+      {
+        "name": "DO3000 Door Drive",
+        "slug": "do3000-door-drive",
+        "category": "door_drive",
+        "status": "partial",
+        "aliases": [
+          "do3000"
+        ],
+        "matched_local_categories": [
+          "ALL DOOR INVERTERS"
+        ],
+        "priority": "normal",
+        "document_count": 11
+      },
+      {
+        "name": "Load Weighing Controllers",
+        "slug": "load-weighing-controllers",
+        "category": "component",
+        "status": "available",
+        "aliases": [
+          "loadcell",
+          "load weighing",
+          "dtzz",
+          "dk100",
+          "dk200",
+          "dc1s"
+        ],
+        "matched_local_categories": [
+          "LOADCELL"
+        ],
+        "priority": "normal",
+        "document_count": 4
+      },
+      {
+        "name": "Display / HOP / COP / LOP",
+        "slug": "display-hop-cop-lop",
+        "category": "component",
+        "status": "partial",
+        "aliases": [
+          "display",
+          "hop",
+          "cop",
+          "lop",
+          "mctc-hcb",
+          "hcb-b6"
+        ],
+        "matched_local_categories": [
+          "MONARCH"
+        ],
+        "priority": "normal",
+        "document_count": 18
+      },
+      {
+        "name": "Escalator Controllers",
+        "slug": "escalator-controllers",
+        "category": "escalator",
+        "status": "available",
+        "aliases": [
+          "escalator",
+          "nice2000"
+        ],
+        "matched_local_categories": [
+          "ESCALATOR"
+        ],
+        "priority": "normal",
+        "document_count": 2
+      }
+    ]
+  },
+  "brand_index": [
+    {
+      "name": "Otis",
+      "slug": "otis",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "OTIS",
+        "SIGMA"
+      ],
+      "document_count": 11,
+      "priority": "normal"
+    },
+    {
+      "name": "KONE",
+      "slug": "kone",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "KONE",
+        "MONARCH"
+      ],
+      "document_count": 20,
+      "priority": "normal"
+    },
+    {
+      "name": "Schindler",
+      "slug": "schindler",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "AIEC3300",
+        "SCHINDLER"
+      ],
+      "document_count": 9,
+      "priority": "normal"
+    },
+    {
+      "name": "TK Elevator / ThyssenKrupp",
+      "slug": "tk-elevator-thyssenkrupp",
+      "category": "oem",
+      "status": "partial",
+      "matched_local_categories": [
+        "TYSEEN"
+      ],
+      "document_count": 2,
+      "priority": "high"
+    },
+    {
+      "name": "Mitsubishi Electric",
+      "slug": "mitsubishi-electric",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "MITSUBISHI"
+      ],
+      "document_count": 3,
+      "priority": "normal"
+    },
+    {
+      "name": "Hitachi",
+      "slug": "hitachi",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Fujitec",
+      "slug": "fujitec",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "Fujitec"
+      ],
+      "document_count": 1,
+      "priority": "normal"
+    },
+    {
+      "name": "Hyundai Elevator",
+      "slug": "hyundai-elevator",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "HYUNDAI"
+      ],
+      "document_count": 4,
+      "priority": "normal"
+    },
+    {
+      "name": "Toshiba Elevator",
+      "slug": "toshiba-elevator",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Sigma",
+      "slug": "sigma",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "SIGMA"
+      ],
+      "document_count": 4,
+      "priority": "normal"
+    },
+    {
+      "name": "LG / Sigma Legacy",
+      "slug": "lg-sigma-legacy",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "SIGMA"
+      ],
+      "document_count": 4,
+      "priority": "normal"
+    },
+    {
+      "name": "Orona",
+      "slug": "orona",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Kleemann",
+      "slug": "kleemann",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Cibes",
+      "slug": "cibes",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "CIBES"
+      ],
+      "document_count": 2,
+      "priority": "normal"
+    },
+    {
+      "name": "Stannah",
+      "slug": "stannah",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Doppler",
+      "slug": "doppler",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Sodimas",
+      "slug": "sodimas",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "MP Lifts",
+      "slug": "mp-lifts",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "GMV",
+      "slug": "gmv",
+      "category": "oem_hydraulic",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "IGV",
+      "slug": "igv",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "SJEC",
+      "slug": "sjec",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Canny / Fuji Canny",
+      "slug": "canny-fuji-canny",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "FUJI CANNY"
+      ],
+      "document_count": 2,
+      "priority": "normal"
+    },
+    {
+      "name": "IFE",
+      "slug": "ife",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "IFE"
+      ],
+      "document_count": 3,
+      "priority": "normal"
+    },
+    {
+      "name": "Sicher",
+      "slug": "sicher",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Hosting Elevator",
+      "slug": "hosting-elevator",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "AE HOSTING"
+      ],
+      "document_count": 3,
+      "priority": "normal"
+    },
+    {
+      "name": "YungTai / Yungtay",
+      "slug": "yungtai-yungtay",
+      "category": "oem",
+      "status": "available",
+      "matched_local_categories": [
+        "YUNGTAI"
+      ],
+      "document_count": 3,
+      "priority": "normal"
+    },
+    {
+      "name": "Sanyo Elevator",
+      "slug": "sanyo-elevator",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Volkslift",
+      "slug": "volkslift",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Brilliant / BLT",
+      "slug": "brilliant-blt",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "EITA",
+      "slug": "eita",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Express Lift Legacy",
+      "slug": "express-lift-legacy",
+      "category": "oem_legacy",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Westinghouse Legacy",
+      "slug": "westinghouse-legacy",
+      "category": "oem_legacy",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Dover Legacy",
+      "slug": "dover-legacy",
+      "category": "oem_legacy",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Montgomery Legacy",
+      "slug": "montgomery-legacy",
+      "category": "oem_legacy",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Fujita",
+      "slug": "fujita",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Marohn",
+      "slug": "marohn",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Tianjin Otis / Xizi Otis",
+      "slug": "tianjin-otis-xizi-otis",
+      "category": "oem",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "high"
+    },
+    {
+      "name": "Monarch / NICE",
+      "slug": "monarch-nice",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "MONARCH",
+        "WELLS MONARCH",
+        "_SYNC_LIVE_IMPORTS"
+      ],
+      "document_count": 29,
+      "priority": "normal"
+    },
+    {
+      "name": "STEP / AS380 / AS320",
+      "slug": "step-as380-as320",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "MONARCH",
+        "STEP"
+      ],
+      "document_count": 26,
+      "priority": "normal"
+    },
+    {
+      "name": "Arkel",
+      "slug": "arkel",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "ARKEL"
+      ],
+      "document_count": 1,
+      "priority": "normal"
+    },
+    {
+      "name": "Sicon",
+      "slug": "sicon",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "LOUSERLIFT",
+        "SICON"
+      ],
+      "document_count": 8,
+      "priority": "normal"
+    },
+    {
+      "name": "BlueLight / BL2000",
+      "slug": "bluelight-bl2000",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "BLUELIGHT",
+        "SOFTWARE & APK",
+        "_SYNC_LIVE_IMPORTS"
+      ],
+      "document_count": 21,
+      "priority": "normal"
+    },
+    {
+      "name": "HPMONT / MONT",
+      "slug": "hpmont-mont",
+      "category": "controller_drive",
+      "status": "available",
+      "matched_local_categories": [
+        "HPMONT"
+      ],
+      "document_count": 3,
+      "priority": "normal"
+    },
+    {
+      "name": "INVT EC Series",
+      "slug": "invt-ec-series",
+      "category": "controller_drive",
+      "status": "available",
+      "matched_local_categories": [
+        "INVT"
+      ],
+      "document_count": 3,
+      "priority": "normal"
+    },
+    {
+      "name": "Nidec / Control Techniques",
+      "slug": "nidec-control-techniques",
+      "category": "drive_controller",
+      "status": "available",
+      "matched_local_categories": [
+        "NIDEC"
+      ],
+      "document_count": 2,
+      "priority": "normal"
+    },
+    {
+      "name": "AIEC3300",
+      "slug": "aiec3300",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "AIEC3300"
+      ],
+      "document_count": 1,
+      "priority": "normal"
+    },
+    {
+      "name": "Ningbo / Hongda",
+      "slug": "ningbo-hongda",
+      "category": "controller",
+      "status": "partial",
+      "matched_local_categories": [
+        "AE HOSTING",
+        "ALL DOOR INVERTERS",
+        "IFE"
+      ],
+      "document_count": 17,
+      "priority": "high"
+    },
+    {
+      "name": "Smart Lift",
+      "slug": "smart-lift",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "SMART LIFT"
+      ],
+      "document_count": 2,
+      "priority": "normal"
+    },
+    {
+      "name": "SRH",
+      "slug": "srh",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "SRH"
+      ],
+      "document_count": 2,
+      "priority": "normal"
+    },
+    {
+      "name": "Sword",
+      "slug": "sword",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "SWORD"
+      ],
+      "document_count": 4,
+      "priority": "normal"
+    },
+    {
+      "name": "Tyseen",
+      "slug": "tyseen",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "TYSEEN"
+      ],
+      "document_count": 2,
+      "priority": "normal"
+    },
+    {
+      "name": "Mico M3",
+      "slug": "mico-m3",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "MICO M3",
+        "SCHINDLER"
+      ],
+      "document_count": 11,
+      "priority": "normal"
+    },
+    {
+      "name": "Louserlift",
+      "slug": "louserlift",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "LOUSERLIFT",
+        "SICON"
+      ],
+      "document_count": 8,
+      "priority": "normal"
+    },
+    {
+      "name": "Wells Monarch",
+      "slug": "wells-monarch",
+      "category": "controller",
+      "status": "available",
+      "matched_local_categories": [
+        "WELLS MONARCH"
+      ],
+      "document_count": 1,
+      "priority": "normal"
+    },
+    {
+      "name": "Yaskawa",
+      "slug": "yaskawa",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Fuji Electric / Frenic Lift",
+      "slug": "fuji-electric-frenic-lift",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Delta",
+      "slug": "delta",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Siemens",
+      "slug": "siemens",
+      "category": "drive",
+      "status": "available",
+      "matched_local_categories": [
+        "SIEMENS"
+      ],
+      "document_count": 1,
+      "priority": "normal"
+    },
+    {
+      "name": "Schneider Electric",
+      "slug": "schneider-electric",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Ziehl-Abegg",
+      "slug": "ziehl-abegg",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Gefran",
+      "slug": "gefran",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "LS Electric",
+      "slug": "ls-electric",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Omron",
+      "slug": "omron",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Mitsubishi Inverter",
+      "slug": "mitsubishi-inverter",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Toshiba Drive",
+      "slug": "toshiba-drive",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "ABB",
+      "slug": "abb",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Danfoss",
+      "slug": "danfoss",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "KEB",
+      "slug": "keb",
+      "category": "drive",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Wittur / Selcom",
+      "slug": "wittur-selcom",
+      "category": "door_system",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Fermator",
+      "slug": "fermator",
+      "category": "door_system",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Sematic",
+      "slug": "sematic",
+      "category": "door_system",
+      "status": "missing",
+      "matched_local_categories": [],
+      "document_count": 0,
+      "priority": "normal"
+    },
+    {
+      "name": "Panasonic Door Operator",
+      "slug": "panasonic-door-operator",
+      "category": "door_drive",
+      "status": "partial",
+      "matched_local_categories": [
+        "ALL DOOR INVERTERS"
+      ],
+      "document_count": 11,
+      "priority": "normal"
+    },
+    {
+      "name": "Emerson Door Drive",
+      "slug": "emerson-door-drive",
+      "category": "door_drive",
+      "status": "partial",
+      "matched_local_categories": [
+        "ALL DOOR INVERTERS"
+      ],
+      "document_count": 11,
+      "priority": "normal"
+    },
+    {
+      "name": "Ningbo Door Inverter",
+      "slug": "ningbo-door-inverter",
+      "category": "door_drive",
+      "status": "partial",
+      "matched_local_categories": [
+        "ALL DOOR INVERTERS"
+      ],
+      "document_count": 11,
+      "priority": "normal"
+    },
+    {
+      "name": "Ouling Door Drive",
+      "slug": "ouling-door-drive",
+      "category": "door_drive",
+      "status": "partial",
+      "matched_local_categories": [
+        "ALL DOOR INVERTERS"
+      ],
+      "document_count": 11,
+      "priority": "normal"
+    },
+    {
+      "name": "YS-K01 Door Drive",
+      "slug": "ys-k01-door-drive",
+      "category": "door_drive",
+      "status": "partial",
+      "matched_local_categories": [
+        "ALL DOOR INVERTERS"
+      ],
+      "document_count": 11,
+      "priority": "normal"
+    },
+    {
+      "name": "DO3000 Door Drive",
+      "slug": "do3000-door-drive",
+      "category": "door_drive",
+      "status": "partial",
+      "matched_local_categories": [
+        "ALL DOOR INVERTERS"
+      ],
+      "document_count": 11,
+      "priority": "normal"
+    },
+    {
+      "name": "Load Weighing Controllers",
+      "slug": "load-weighing-controllers",
+      "category": "component",
+      "status": "available",
+      "matched_local_categories": [
+        "LOADCELL"
+      ],
+      "document_count": 4,
+      "priority": "normal"
+    },
+    {
+      "name": "Display / HOP / COP / LOP",
+      "slug": "display-hop-cop-lop",
+      "category": "component",
+      "status": "partial",
+      "matched_local_categories": [
+        "MONARCH"
+      ],
+      "document_count": 18,
+      "priority": "normal"
+    },
+    {
+      "name": "Escalator Controllers",
+      "slug": "escalator-controllers",
+      "category": "escalator",
+      "status": "available",
+      "matched_local_categories": [
+        "ESCALATOR"
+      ],
+      "document_count": 2,
+      "priority": "normal"
+    }
+  ],
+  "hosting": "github-pages-full-online",
+  "skipped_count": 0,
+  "skipped": []
+}
